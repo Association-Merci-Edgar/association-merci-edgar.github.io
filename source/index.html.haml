@@ -1,0 +1,59 @@
+---
+title: Welcome to Middleman
+layout: my
+description: Merci Edgar
+images:
+  - edgar-head.png
+  - vitrinne-banner-launch2.jpg
+---
+
+.hero-unit#hero-launch.gradient
+  .container
+    .container.submenu
+      #socialfixed
+        %ul.socials
+          %li
+            %a{:href => "https://www.facebook.com/pages/Merci-Edgar/164510577033726", :title => "Facebook Merci Edgar", :target => "blank"}
+              %i.ico.edi-facebook
+
+          %li
+            %a{:href => "https://twitter.com/MerciEdgar", :title => "Twitter Merci Edgar", :target => "blank"}
+              %i.ico.edi-twitter
+
+          %li
+            %a{:href => "http://vimeo.com/channels/entretiensdedgar", :title => "Vimeo Channel Entretiens d'Edgar", :target => "blank"}
+              %i.ico.edi-vimeo
+        
+    .row-fluid.hero-launch
+      = image_tag("multipage/vitrinne-banner-launch2.png")
+    
+
+%section#features-section
+  .container
+    .row-fluid.label-blocks
+      .span4
+        .label.label-large.label-info
+          = image_tag("multipage/pic-photo-2.png")
+        %h4= t("home.features.track_1")
+        %p= t("home.features.track_what_1")
+
+      .span4
+        .label.label-large.label-info
+          = image_tag("multipage/pic-photo-4.png")
+        %h4= t("home.features.schedule")
+        %p= t("home.features.schedule_what")
+
+      .span4
+        
+        .label.label-large.label-info
+          = image_tag("multipage/pic-photo-3.png")
+        %h4= t("home.features.communicate")
+        %p= t("home.features.communicate_what").html_safe
+      
+%section.cta.cta-invi
+  .container
+    %h3
+      = link_to '/features.html' do
+        %i.ico.edi-info2
+        Découvrir les fonctionnalités de Merci Edgar
+%space

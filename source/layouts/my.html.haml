@@ -1,0 +1,11 @@
+!!!
+%html
+  %head
+    = partial 'head'
+  %body#thetop
+    .main-wrapper
+      = partial 'header'
+      = yield
+      = partial 'footer'
+      = partial 'javascripts'
+

@@ -1,0 +1,47 @@
+%section.cta.cta-black#cta-enroll
+  .container
+    %h3 Combien ça coûte ?
+
+    :markdown
+      C'est aujourd'hui gratuit !
+    
+      L'utilisation de Merci Edgar sera bientôt reservée aux adhérents de l'association (une fois la fonctionnalité d'export opérationnelle). 
+    
+      Réponses aux questions fréquemment posées sur l'[association Merci Edgar](http://blog.merciedgar.com/post/108265370123/reponses-aux-questions-frequemment-posees). 
+    
+      Pour info, le montant de l'adhésion est symbolique : elle est fixée à 20€ par an pour les particuliers (et permet de couvrir notamment les frais d'hébergement)
+    
+
+    .row-fluid
+      .span5
+        %button.btn.btn-large.btn-danger.btn-block Je m'inscris !
+        
+%footer#contact-section.footer
+  .container
+    .row-fluid
+      .span8
+        /%a{href: "#thetop"}
+        = link_to '/' do
+          .logo-ed.logo-footer.edi-ed-logo-typo
+          -#= image_tag("multipage/logo-edgar-horiz-typ-white.png")
+        %address
+          %i.fa-icon-map-marker
+          Au bourg, 47120 Monteton, France
+         
+        
+      .span4
+        %ul.socials
+          %li
+            %a{:href => "https://www.facebook.com/pages/Merci-Edgar/164510577033726", :title => "Facebook Merci Edgar", :target => "blank"}
+              %i.ico.edi-facebook
+          %li
+            %a{:href => "https://twitter.com/MerciEdgar", :title => "Twitter Merci Edgar", :target => "blank"}
+              %i.ico.edi-twitter
+          %li
+            %a{:href => "http://vimeo.com/channels/entretiensdedgar", :title => "Vimeo Channel Entretiens d'Edgar", :target => "blank"}
+              %i.ico.edi-vimeo
+        -#  
+          %li    
+            %a{:href => "mailto:contact@merciedgar.com", :title => "Mail"}
+              %i.ico.edi-mail
+              

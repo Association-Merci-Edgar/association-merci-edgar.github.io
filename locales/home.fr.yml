@@ -1,0 +1,125 @@
+--- 
+fr:
+  venues: Salles
+  contacts: Contacts
+  people: Personnes
+  baseline: "l’assistant virtuel des artistes" 
+  home:
+    baseline: "l’assistant virtuel<br>des artistes"
+    menu:
+      what: "C’est quoi ?"
+      who: "C’est qui ?"
+      news: "Actualités"
+    slogan: 
+      
+      creation: création
+      
+      management: gestion,
+      of: de
+      are_you_artist: "Vous êtes artiste, tourneur ?"
+      time: "Vous passez plus de temps à gérer l’administratif qu’à créer ?"
+      edgar_for_you: "est là pour vous aider !"
+      virtual_assistant: "Le logiciel de booking"
+      
+    i_want_it: "Je m'inscris !"
+    features:
+      find: Explorez vos contacts
+      find_what: "selon leur esthétique, leur emplacement, etc. Ou selon vos propre mots-clés personnalisés !"
+      
+      find_v1: Trouvez rapidement les lieux
+      find_what_v1: "compatibles avec votre style, selon leur emplacement, selon leur jauge, ..."
+      
+      track: "Facilitez vos échanges"
+      track_what: "suivez l'historique de vos conversations, générez automatiquement le bon contrat, envoyez votre dernière fiche technique, ..."
+      
+      
+      track_1: "Gérez vos contacts"
+      track_what_1: "lieux, festivals, autres organisateurs de spectacle en utilisant notre puissant moteur de recherche pour retrouver rapidement vos contacts à partir de nombreux critères"
+      
+      communicate: "Communiquez auprès des pros et de vos fans"
+      communicate_what: "via Facebook ou par mail, et suivez qui a ouvert vos mails, qui a cliqué sur vos liens <i>Prochainement</i>"
+      
+      schedule: Planifiez d’un clic
+      schedule_what: "et de manière collaborative vos tâches en cours (ou en retard...), vos prochaines dates ou répétitions"
+      
+      schedule_v1: Planifiez et gérez en un coup d'œil
+      schedule_what_v1: "vos tâches en cours, en retard, le planning de vos prochaines dates ou répétitions"
+      
+    promise: 
+      why: "Pourquoi choisir Merci Edgar ?"
+      alone: "Vous êtes artiste ? Vous n'avez pas encore de tourneur ? Vous n'avez pas le choix, vous devez vous occuper de tout, et tout seul!"
+      more_time_for: "Vous aimeriez consacrer davantage de temps à créer, répéter, jouer sur scène plutôt qu'à vous occuper de la communication, des tâches administratives ou commerciales ?"
+      goal: "Avec Merci Edgar, vous avez enfin un outil vous permettant d'être plus efficace, organisé dans vos recherches de dates. Bref, vous allez gagner du temps, du temps que vous pourrez consacrer à votre passion, pour le plaisir de votre public !"
+    commitments:
+      free: "Vous êtes libre !"
+      free_details: "Vous pouvez vous désengager à tout moment et récupérer toutes vos données."
+      simple: Un outil simple
+      simple_details: La prise en main est rapide et à la portée de tous.
+      no_installation: Aucune installation requise
+      no_installation_details: "Merci Edgar est accessible depuis n'importe quel navigateur"
+      byfor: "Fait par des artistes, pour des artistes !"
+      byfor_details: "et ça, ça change tout !"
+      evolutive: "Un outil évolutif"
+      evolutive_details: "Nous allons construire l'outil avec vous ! Il évoluera en fonction de vos besoins."
+    request:
+      invitation: "Demande d'invitation"
+      explanation: "Merci Edgar est en cours de construction. Laissez votre mail dès maintenant pour être averti lors de sa sortie !"
+    tv:
+      description: "Edgar n'est pas seulement un assistant virtuel, il aide aussi les artistes en réalisant des interviews de professionnels du spectacle, leur permettant ainsi de mieux comprendre le milieu dans lequel ils souhaitent évoluer. Retrouvez une semaine sur deux un nouvel entretien !"
+      more: "Plus de videos sur le blog de Merci Edgar"
+    thankyou:
+      title: "Merci !"
+      info: "Votre demande a bien été enregistrée."
+      contact: "De notre côté, nous construisons votre futur assistant virtuel...Et l'on reprend contact avec vous juste avant la sortie de Merci Edgar !"
+      share: "Faites-en profiter vos ami-e-s artistes ! Partagez la nouvelle sur Facebook, Twitter ou Google Plus !"
+      social_message: "Je viens de decouvrir Merci Edgar ! Cela peut vous interesser ..."
+    events:
+      title: "Evénements"
+      description: "Notez dès maintenant sur votre calepin le prochain apéro ou pique-nique d’Edgar"
+      more: "Plus d'événements sur le blog de Merci Edgar"
+      event1:
+        title: "Pique-nique d'Edgar au parc de la Villette"
+        description: "Avant que tout le monde ne parte par monts et par vaux, venez toutes et tous au Pique-Nique d'Edgar !
+          <br/>Le principe : On vient avec son instrument si on est musicien, avec sa bonne humeur..."
+      event2:
+        title: "Edgar sera à Avignon !"
+        description: "Du 18 au 20 juillet, venez boire un verre avec Edgar. On en profitera pour discuter, et vous faire une démo de notre logiciel de booking, ou plutôt de votre futur assistant virtuel !"
+    news:
+      title: "Actualités"
+      description: "Edgar est toujours sur la brèche. Ne manquez pas une miette de son actualité en parcourant régulièrement notre blog !"  
+      more: "Plus d'actualités sur le blog de Merci Edgar"
+      news1:
+        title: "BIS de Nantes 2014"
+        description: "Rencontrez-nous sur notre stand aux BIS de Nantes les 22 et 23 janvier (place des tournées, stand 116) et découvrez en avant-première votre futur logiciel de booking !"
+      news2:
+        title: "En 2014, Edgar sort de l'oeuf !"
+        description: "On y est presque ! Encore quelques semaines qui nous séparent du 6 février 2014, date de sortie officielle de votre logiciel de booking Merci Edgar, votre futur assistant virtuel !"
+    team:
+      title: "L’équipe"
+      description: "Nous avons un objectif : faire d'Edgar votre meilleur assistant !"
+      more: "En savoir plus"
+      robi:
+        title: Fondateur de Merci Edgar / Responsable developpement / Musicien
+        description: "J'aime chanter sur scène et former des informaticiens. J'aime jouer du piano et pianoter sur mon clavier pour développer des applications web. J'aime composer des mélodies et écrire des lignes de code. Et j'essaie de faire ce que j'aime, tout simplement !"
+      aurelie:
+        title: "Conseillère technique pour Merci Edgar / Fondatrice et directrice du label Adone / Fondatrice et consultante d'Aglae Services"
+        description: "Forte d’un cursus en sociologie puis en conception et mise en oeuvre de projets culturels, je me suis spécialisée dans les professions du spectacle vivant et notamment la musique en suivant des formations relatives au management d’artistes, à la production de spectacle, à l’édition musicale..."
+      jp:
+        title: "Designer graphique et d'interface de Merci Edgar / Concepteur / Directeur artistique freelance"
+        description: "Je consacre une grande part de mon activité à créer des campagnes de communication, identités visuelles et sites Internet pour de jeunes entreprises, des projets associatifs ou engagés."
+      aline: 
+        title: "Conseillère technique pour Merci Edgar / Chargée de production du label Adone"
+        description: "A défaut d'études supérieures, après mon bac je déménage à Paris et intègre les Cours Florent (cours d'art dramatique) avec le rêve fou de devenir comédienne et surtout.. d'en vivre ! Je ferai les 3 ans du cursus mais la réalité du métier me rattrape vite car en parallèle des cours, je découvre le Théâtre Les Blancs Manteaux et je commence à y travailler en tant qu'accessoiriste sur un spectacle. Rapidement..."
+      lylian:
+        title: "Gardien des chiffres et des grands équilibres de Merci Edgar / Ecrivain / Fleuriste / Manager conseil"
+        description: "Je suis un artisan au service de la reine des fleurs (fleuriste en un mot !) doublé d’un consultant au royaume de la technologie, à moins que ce ne soit le contraire.
+        J’ai écrit des romans singuliers parmi lesquels un triptyque plutôt acide qui m’a valu quelques lecteurs dont Robi de Robi & Co. De fil en aiguille..."
+      nath:
+        title: "Responsable de l'internationalisation pour Merci Edgar / Traductrice Freelance"
+        description: "Après avoir travaillé en tant que chef de projet multilingue chez Levi's et Nike pendant 10 ans en voyageant dans toute l'Europe, j'ai décidé de devenir traductrice freelance spécialisée dans les sites web, le marketing et la communication. Fan de rock, blues, musiques alternatives, j'adore sortir et découvrir de nouveaux sons, en France comme à l'étranger."
+      fred:
+        title: "Responsable de la production audiovisuelle pour Merci Edgar / Réalisateur / Chef opérateur"
+        description: "Je suis un ex-jeune réalisateur indépendant de courts métrages diffusés dans des festivals de films à travers le monde, notamment un reboot du Zombie de Romero et  je suis également chef opérateur de documentaires sur des sujets divers diffusés sur France Télévision, notamment un film sur le fonctionnement d'un CECOS (centre d'étude et de conservation des œufs et du sperme humains)"
+      people:
+        title: "Vous"
+        description: "Vous faites partie de l'équipe ! Grâce aux apéros d'Edgar notamment, nous construisons ensemble l'assistant virtuel dont vous ne pourrez plus vous passer !"

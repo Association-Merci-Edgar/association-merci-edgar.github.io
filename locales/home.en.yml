@@ -1,0 +1,101 @@
+en:
+  baseline: "the virtual assistant for artists"
+  home:
+    baseline: "the virtual assistant<br>for artists"
+    menu:
+      what: "What’s that?"
+      who: "Who’s behind?"
+      news: News
+    slogan:
+      creation: creation
+      management: management
+      of: ''
+      are_you_artist: You are an artist?
+      time: You spend more time managing your admin than creating?
+      edgar_for_you: is here to help you!      
+    i_want_it: "I want to test it !"
+    features:
+      find: Find quickly venues
+      find_what: "matching your style, according to their location, their capacity, ..."
+      track: Manage your relationships with a venue
+      track_what: "follow the history of your exchanges, produce automatically the right contract and send your last technical specifications"
+      communicate: "Communicate with professionals and your fans"
+      communicate_what: "via Facebook or mail, and follow who opened your mails, who clicked on your links"
+      schedule: Plan and manage in a glimpse
+      schedule_what: "your ongoing tasks, overdue, planning of your next dates or rehearsal"
+    promise: 
+      why: "Merci Edgar is for you !"
+      alone: "You don't have a tour manager yet? No other choice than doing everything yourself, on your own! "
+      more_time_for: "You would rather dedicate more time to creation, rehearsal, staging than communication, admin or business tasks?"
+      goal: "With Merci Edgar, you finally have a tool enabling you to be more efficient, more organized in your researches to plan dates. So you can spare time, time for your passion, for your audience's delight!"     
+    commitments:
+      free: "You are free"
+      free_details: "You can cancel your contract anytime and get all your data back "
+      simple: A simple tool
+      simple_details: easy to use for everyone
+      no_installation: No installation required
+      no_installation_details: Merci Edgar is accessible from any browser
+      byfor: "Created by artists for artists"
+      byfor_details: "and that's what makes it so different!"
+      evolutive: "An evolutive and mutual tool"
+      evolutive_details: "we will build this tool with you! It will evolve according to your needs"
+    request:
+      invitation: Invitation request
+      explanation: "We are working all summer long to develop the bases of Merci Edgar. If you want to be one of the very few lucky ones to test the software as of September, leave your email address now.  Be quick, only the first ones will have a go!"
+    tv:
+      description: "Edgar is not only a virtual assistant, it also helps artists to interview professionals from the showbusiness, enabling them to better understand the environment in which they want to evolve. Already 17 interviews since October 2012 !"
+      more: "More videos on Merci Edgar's blog"
+    thankyou:
+      title: "Thank you !"
+      info: "Your request has been well received. Enjoy your summer ! We will carry on developping your future virtual assistant"
+      contact: "We will get in touch with you early September !"
+      share: "Let your artists friends know about it ! Share the news on Facebook, Twitter or Google Plus !"
+      social_message: "I applied to be one of the firsts to test Merci Edgar ! And you ?"
+    events:
+      title: "Events"
+      description: "Put right now in your agenda Edgar's next apero or picnic"
+      more: "More events on Merci Edgar's blog"
+      event1:
+        title: "Edgar's picnic at Parc de la Villette"
+        description: "Before everyone goes on holidays, come all to Edgar's picnic !"
+      event2:
+        title: "Edgar will be in Avignon !"
+        description: "From July 18th to 20th, come and have a drink with Edgar..."
+    news:
+      title: "News"
+      more: "More news on Merci Edgar's blog"
+      description: "Edgar is always on the go. Don't miss anything about Edgar's news, read our blog !"  
+      news1:
+        title: "Edgar is buzzing"
+        description: "99% of the people are aware about the existence of Merci Edgar today via Internet..."
+      news2:
+        title: "Edgar is full on, thanks to the FIDIM !"
+        description: "Saturday, May 25th, Edgar participated to the FIDIM, le Forum des Initiatives Digitales (Forum for Digital Initiatives for Music, at the Centre FGO-Barbara..."
+    team:
+      title: "The team"
+      description: "We have a goal: developp Edgar to be your best assistant !"
+      more: "More ..."
+      robi:
+        title: Founder of Merci Edgar / In charge of development / Musician
+        description: "I like to sing on stage and to train IT technicians..."
+      aurelie:
+        title: "Technical adviser for Merci Edgar / Founder and director of label Adone / Founder and adviser of Aglae Services"
+        description: "Having studied sociology, then design and implementation of cultural projects, I specialized in careers related to live shows, especially music, I trained in artists management, show production, musical edition..."
+      jp:
+        title: "Designer of Merci Edgar / Freelance graphic designer"
+        description: "I dedicate most of my activity to creating communication campaigns, visual identities and Internet sites for young companies, community or committed projects."
+      aline: 
+        title: "Technical adviser for Merci Edgar / Production manager for label Adone"
+        description: "Having decided not to pursue university studies after my bac, I moved to Paris and started the famous Cours Florent (drama school) with the crazy dream to become an actress.. and make a living from it..."
+      lylian:
+        title: "Administrative and legal manager for Merci Edgar / Writer / Flowerist / Contracting adviser at Micropole"
+        description: "I'm an artisan servicing the queen of flowers (florist in one word !) and an adviser in technology or maybe the contrary..."
+      nath:
+        title: "In charge of international development for Merci Edgar / Freelance translator"
+        description: "After having worked as international project manager for Levi's and Nike for 10 years travelling all over Europe, I decided to become freelance translator specialized in websites, marketing and communication..."
+      fred:
+        title: "Audiovisual production manager for Merci Edgar / Director/ Cameraman"
+        description: "I'm an ex young independant producer of short films shown in films festivals all over the world, in particular a reboot of Zombie from Romero..."
+      people:
+        title: "You"
+        description: "You are part of the team ! Notably thanks to Edgar's aperos, we build together the virtual assistant you can't do without!"
