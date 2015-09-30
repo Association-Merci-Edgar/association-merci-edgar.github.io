@@ -77,7 +77,7 @@ activate :i18n, mount_at_root: :fr
 set :base_url, 'http://www.merciedgar.com'
 
 activate :deploy do |deploy|
-  deploy.deploy_method = :git
+  deploy.method = :git
   # Optional Settings
   # deploy.remote   = 'custom-remote' # remote name or git url, default: origin
   # deploy.branch   = 'custom-branch' # default: gh-pages
