@@ -41,11 +41,11 @@
 # end
 
 # Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+helpers do
+  def is_page_selected(page)
+    current_page.url == page ? {:class => "active"} : {}  
+  end
+end
 
 set :css_dir, 'stylesheets'
 
