@@ -1,5 +1,5 @@
 ---
-title: Welcome to Middleman
+title: Accueil
 layout: my
 description: Merci Edgar
 images:
@@ -11,20 +11,25 @@ images:
   .container
     .container.submenu
       #socialfixed
-        %ul.socials
-          %li
-            %a{:href => "https://www.facebook.com/pages/Merci-Edgar/164510577033726", :title => "Facebook Merci Edgar", :target => "blank"}
-              %i.ico.edi-facebook
+        .row
+          %ul.socials
+            %li
+              %a{:href => "https://www.facebook.com/pages/Merci-Edgar/164510577033726", :title => "Facebook Merci Edgar", :target => "blank"}
+                %i.ico.edi-facebook
 
-          %li
-            %a{:href => "https://twitter.com/MerciEdgar", :title => "Twitter Merci Edgar", :target => "blank"}
-              %i.ico.edi-twitter
+            %li
+              %a{:href => "https://twitter.com/MerciEdgar", :title => "Twitter Merci Edgar", :target => "blank"}
+                %i.ico.edi-twitter
 
-          %li
-            %a{:href => "http://vimeo.com/channels/entretiensdedgar", :title => "Vimeo Channel Entretiens d'Edgar", :target => "blank"}
-              %i.ico.edi-vimeo
+            %li
+              %a{:href => "http://vimeo.com/channels/entretiensdedgar", :title => "Vimeo Channel Entretiens d'Edgar", :target => "blank"}
+                %i.ico.edi-vimeo
+        
         
     .row-fluid.hero-launch
+      %button.btn.btn-large.btn-danger.btn-block Je m'inscris maintenant !
+  
+    
       = image_tag("multipage/vitrinne-banner-launch2.png")
     
 
@@ -46,9 +51,9 @@ images:
       .span4
         
         .label.label-large.label-info
-          = image_tag("multipage/pic-photo-3.png")
-        %h4= t("home.features.communicate")
-        %p= t("home.features.communicate_what").html_safe
+          = image_tag("multipage/pic-photo-1.png")
+        %h4= t("home.features.share")
+        %p= t("home.features.share_what").html_safe
       
 %section.cta.cta-invi
   .container
