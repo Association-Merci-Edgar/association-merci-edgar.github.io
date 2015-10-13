@@ -10,12 +10,13 @@ images:
 ---
 .hero-unit.notfullimg#hero-features
   .container
-    .row-fluid
-      %button.btn.btn-large.btn-danger.btn-block Je m'inscris maintenant !
     .thehero
       %h4 Voici vos nouveaux meilleurs amis :
       = image_tag("multipage/showcase-banner-feat.png")
-
+      %space
+      .row-fluid
+        .span6.offset3
+          %button.btn.btn-large.btn-danger.btn-block Je m'inscris maintenant !
 
 
 %section.bkg-white.feat-section
