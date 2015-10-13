@@ -1,5 +1,5 @@
 ---
-title: Welcome to Middleman
+title: Association
 layout: my
 description: Merci Edgar
 images:
@@ -14,9 +14,26 @@ images:
       %h4 Edgar ? C’est qui ? C’est quoi ?
       = image_tag("multipage/showcase-banner-about.png")
       
+      %space
+      .row-fluid
+        .span6.offset3
+          %button.btn.btn-large.btn-danger.btn-block Je m'inscris maintenant !
+      
+      
   
     
 %space
+%section
+  .container
+    .row-fluid
+      .span7
+        %h2 Faisons le pari du collectif !
+        %p
+        L'association Merci Edgar a pour objectif de faciliter l'entraide entre artistes. La prochaine étape dans l'évolution de notre logiciel de booking est de mettre dans une seule et même base commune l'ensemble des informations d'ordre publique sur les lieux (nom du lieu, styles programmés, adresse postale). A noter que les contacts directs (téléphone / mail du programmateur) ne seront pour le coup pas partagés. En effet, nous pensons que c'est contre-productif de les rendre publiques.
+        Adhérer à l'association Merci Edgar, cela signifie donc que vous participez à l'élaboration d'une base commune de lieux. Plus nous aurons d'adhérents, plus notre base commune sera pertinente et fiable.
+      .span5
+        %p
+        .img-disc= image_tag("multipage/rugby.png") 
 %section
   .container
     .row-fluid
@@ -50,172 +67,6 @@ images:
         %p
         .img-disc= image_tag("multipage/rocket.jpg") 
         
-
-
-%section#tv-section
-  .container
-    .row-fluid
-      .span12
-        %h2.section-title Edgar TV
-        %p.subtitle= t("home.tv.description")
-
-    #container-folio.row-fluid
-      / portfolio item
-      .span3.project-item.seo.graphics.box
-        .thumbnail
-          %a{:href => "http://blog.merciedgar.com/post/41597390981/sanseverino", :target => "blank"}
-            %div
-              .thumb-hover
-              = image_tag("multipage/screens/sansev.jpg")
-            .caption.text-center
-              %h4
-                Sanseverino, artiste
-      
-      .span3.project-item.seo.graphics.box
-        .thumbnail
-          %a{:href => "http://blog.merciedgar.com/post/40413767004/aureliethuot", :target => "blank"}
-            %div
-              .thumb-hover
-              = image_tag("multipage/screens/aurelie.jpg")
-            .caption.text-center
-              %h4
-                Aurélie Thuot, productrice de spectacles
-
-      .span3.project-item.seo.graphics.box
-        .thumbnail
-          %a{:href => "http://blog.merciedgar.com/post/52538891880/francois-alquier-est-un-journaliste-atypique", :target => "blank"}
-            %div
-              .thumb-hover
-              = image_tag("multipage/screens/alquier.jpg")
-            .caption.text-center
-              %h4
-                François Alquier, journaliste
-                
-      .span3.project-item.seo.graphics.box
-        .thumbnail
-          %a{:href => "http://blog.merciedgar.com/post/33374624316/mariongeoffroy", :target => "blank"}
-            %div
-              .thumb-hover
-              = image_tag("multipage/screens/marion.jpg")
-            .caption.text-center
-              %h4
-                Marion Geoffroy, directrice de salle
-    -#
-      .span3.project-item.seo.graphics.box
-        .thumbnail
-          %a{:href => "http://blog.merciedgar.com/post/36508301980/papy", :target => "blank"}
-            %div
-              .thumb-hover
-              %img{:src => "images/screens/papy.jpg"}/
-            .caption.text-center
-              %h4
-                Papy, accompagnateur d’artistes
-
-      .span3.project-item.seo.graphics.box
-        .thumbnail
-          %a{:href => "http://blog.merciedgar.com/post/43897181676/stephanie-berrebi-est-journaliste-mais-pas-que", :target => "blank"}
-            %div
-              .thumb-hover
-              = image_tag("multipage/screens/steph.jpg")
-            .caption.text-center
-              %h4
-                Stéphanie Berrebi, journaliste
-
-      .span3.project-item.seo.graphics.box
-        .thumbnail
-          %a{:href => "http://blog.merciedgar.com/post/42750733973/depuis-toujours-passionne-par-la-transmission-et", :target => "blank"}
-            %div
-              .thumb-hover
-              = image_tag("multipage/screens/karim.jpg")
-            .caption.text-center
-              %h4
-                Karim Kanal, accompagnateur-conseil
-
-      .span3.project-item.seo.graphics.box
-        .thumbnail
-          / IMAGE CONTAINER
-          %a{:href => "http://blog.merciedgar.com/post/34491364088/didierpascalis", :target => "blank"}
-            %div
-              .thumb-hover
-              %img{:src => "images/screens/didierpascalis.jpg"}/
-            / END IMAGE CONTAINER
-            / CAPTION
-            .caption.text-center
-              / TITLE
-              %h4
-                Didier Pascalis, producteur
-            / / TITLE
-          / END CAPTION
-        / END: THUMBNAIL
-      / END: portfolio item
-      .span3.project-item.seo.graphics.box
-        .thumbnail
-          / IMAGE CONTAINER
-          %a{:href => "http://blog.merciedgar.com/post/38631124519/kidibuzz", :target => "blank"}
-            %div
-              .thumb-hover
-              %img{:src => "images/screens/nomi.jpg"}/
-            / END IMAGE CONTAINER
-            / CAPTION
-            .caption.text-center
-              / TITLE
-              %h4
-                Nomi, programmateur
-            / / TITLE
-          / END CAPTION
-        / END: THUMBNAIL
-      / END: portfolio item
-      .span3.project-item.seo.graphics.box
-        .thumbnail
-          / IMAGE CONTAINER
-          %a{:href => "http://blog.merciedgar.com/post/51384353684/roxanne-joseph-avec-carole-chichin-et-nicolas", :target => "blank"}
-            %div
-              .thumb-hover
-              %img{:src => "images/screens/roxanne.jpg"}/
-            / END IMAGE CONTAINER
-            / CAPTION
-            .caption.text-center
-              / TITLE
-              %h4
-                Roxane Joseph, directrice de festival
-            / / TITLE
-          / END CAPTION
-        / END: THUMBNAIL
-      / END: portfolio item            
-      .span3.project-item.seo.graphics.box
-        .thumbnail
-          / IMAGE CONTAINER
-          %a{:href => "http://blog.merciedgar.com/post/53671067577/edgard-garcia-est-le-directeur-de-zebrock-une", :target => "blank"}
-            %div
-              .thumb-hover
-              %img{:src => "images/screens/garcia.jpg"}/
-            / END IMAGE CONTAINER
-            / CAPTION
-            .caption.text-center
-              / TITLE
-              %h4
-                Edgard Garcia, directeur d'une association d'action culturelle
-            / / TITLE
-          / END CAPTION
-        / END: THUMBNAIL
-      / END: portfolio item      
-      .span3.project-item.seo.graphics.box
-        .thumbnail
-          / IMAGE CONTAINER
-          %a{:href => "http://blog.merciedgar.com/post/47936599491/florence-faissat-est-programmatrice-pour-les", :target => "blank"}
-            %div
-              .thumb-hover
-              %img{:src => "images/screens/faissat.jpg"}/
-            / END IMAGE CONTAINER
-            / CAPTION
-            .caption.text-center
-              / TITLE
-              %h4
-                Florence Faissat, programmatrice télé
-    %a.sml-link.bigger{:href => "http://blog.merciedgar.com/tagged/entretien", :target => "blank"}= t("home.tv.more")
-  / /CONTAINER
-/
-
 
 
 - content_for :facebook_og do
