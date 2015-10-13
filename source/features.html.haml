@@ -10,6 +10,8 @@ images:
 ---
 .hero-unit.notfullimg#hero-features
   .container
+    .row-fluid
+      %button.btn.btn-large.btn-danger.btn-block Je m'inscris maintenant !
     .thehero
       %h4 Voici vos nouveaux meilleurs amis :
       = image_tag("multipage/showcase-banner-feat.png")
@@ -91,26 +93,21 @@ images:
   .container
     .section-title
       %h2 Prochainement
-      %p La version actuelle de pré-lancement de Merci Edgar ne contient que le module "Gestion de contacts". Nous sommes en train de développer de nouveaux modules (administration, communication).
+      %p Nous sommes en train de développer de nouveaux modules (administration, base commune).
 
     .row-fluid.label-blocks
-      .span4
+      .span6
         .label.label-large
           %i.ico.edi-dates
         %h4 Module administration
         %p gestion et suivi d'une date vendue
 
-      .span4
+      .span6
         .label.label-large
           %i.ico.edi-megaphone
-        %h4 Module communication
-        %p il permettra de coupler sa base de données Merci Edgar avec des outils d'envoi de mail en masse notamment
+        %h4 Base commune
+        %p Toutes les informations d'ordre publique (nom des lieux, jauges, styles programmés, ...) seront partagées dans une seule et même base commune
 
-      .span4
-        .label.label-large
-          %i.ico.edi-mobile
-        %h4 Edgar Mobile
-        %p Une version mobile est en cours de développement.
 
 %section
   .container
