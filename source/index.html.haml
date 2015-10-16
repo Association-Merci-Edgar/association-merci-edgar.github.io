@@ -27,14 +27,18 @@ images:
         
         
     .row-fluid.hero-launch
-      %button.btn.btn-large.btn-danger.btn-block Je m'inscris maintenant !
+      = image_tag("multipage/vitrinne-banner-launch2.png")
   
     
-      = image_tag("multipage/vitrinne-banner-launch2.png")
     
 
 %section#features-section
   .container
+    .row-fluid
+      .span5.offset4
+        = link_to 'http://login.merciedgar.com/fr/users/sign_up' do
+          %button.btn.btn-large.btn-danger.btn-block Je m'inscris maintenant !
+        %space
     .row-fluid.label-blocks
       .span4
         .label.label-large.label-info
