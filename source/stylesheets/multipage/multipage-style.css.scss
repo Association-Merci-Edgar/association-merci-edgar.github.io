@@ -342,7 +342,7 @@ ul.social-left li {
   }
 }
 
-.login-submit, .login-btn, .close-btn {
+.login-btn, .close-btn {
   //background:$beige;
   //color:$dblue;
   background:$green;
@@ -353,6 +353,10 @@ ul.social-left li {
     //color:$white;
     background:$dblue;
   }
+}
+
+.login-btn a {
+  color: $white;
 }
 
 
