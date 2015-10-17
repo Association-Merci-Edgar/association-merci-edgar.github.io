@@ -43,9 +43,9 @@
                   <nav class='nav-collapse collapse pull-right'>
                     <ul class='nav' id='nav'>
                       <!-- = showcase_menu_link("Accueil", locale_root_path, "index") -->
-                      <li><a href="/features.html">Logiciel de booking</a></li>
+                      <li><a href="/software.html">Logiciel de booking</a></li>
                       <li class='active'><a href="/videos.html">Edgar TV</a></li>
-                      <li><a href="/about.html">Association</a></li>
+                      <li><a href="/association.html">Association</a></li>
                       <li><a target="_blank" href="http://blog.merciedgar.com">Blog</a></li>
                     </ul>
                     <div id='login-tab'>
@@ -75,7 +75,7 @@
           <div class='row-fluid'>
             <div class='span12'>
               <h2 class='section-title'>Edgar TV</h2>
-              <p class='subtitle'>Edgar n'est pas seulement un assistant virtuel, il aide aussi les artistes en réalisant des interviews de professionnels du spectacle, leur permettant ainsi de mieux comprendre le milieu dans lequel ils souhaitent évoluer. Retrouvez une semaine sur deux un nouvel entretien !</p>
+              <p class='subtitle'>Edgar n'est pas seulement un assistant virtuel, il aide aussi les artistes en réalisant des interviews de professionnels du spectacle, leur permettant ainsi de mieux comprendre le milieu dans lequel ils souhaitent évoluer.</p>
             </div>
           </div>
           <div class='row-fluid' id='container-folio'>
@@ -308,319 +308,16 @@
         <!-- /CONTAINER -->
       </section>
       <!--  -->
-      <!-- / Team section -->
-      <section id='team-section'>
-        <div class='container'>
-          <div class='row-fluid'>
-            <h2 class='section-title'>
-              L’équipe
-            </h2>
-            <p class='subtitle'>Nous avons un objectif : faire d'Edgar votre meilleur assistant !</p>
-          </div>
-          <div class='row-fluid'>
-            <div class='span3 testimonial-box'>
-              <img class="img-circle" src="/images/multipage/staff/robi.jpg" />
-              <h4>Christophe Robillard</h4>
-              <small>Fondateur de Merci Edgar / Responsable developpement / Musicien</small>
-              <!-- %p= t("home.team.robi.description") -->
-              <a class='sml-link bigger' data-toggle='modal' href='#team-robi' title=''>En savoir plus</a>
-              <!-- %a.sml-link.bigger{"data-toggle" => "modali", "data-content" => "#team-robi", :title => ""}= t("home.team.more") -->
-              <!-- %a.accordion-toggle.sml-link.bigger{"data-parent" => "#myCollapsible", "data-toggle" => "collapse", href: "#collapse1"}= t("home.team.more") -->
-            </div>
-            <div class='span3 testimonial-box'>
-              <img class="img-circle" src="/images/multipage/staff/aurelie.jpg" />
-              <h4>Aurélie Thuot</h4>
-              <small>Conseillère technique pour Merci Edgar / Fondatrice et directrice du label Adone / Fondatrice et consultante d'Aglae Services</small>
-              <!-- %p= t("home.team.aurelie.description") -->
-              <a class='sml-link bigger' data-toggle='modal' href='#team-aurelie' title=''>En savoir plus</a>
-              <!-- %a.accordion-toggle.sml-link.bigger{"data-parent" => "#myCollapsible", "data-toggle" => "collapse", href: "#collapse2"}= t("home.team.more") -->
-            </div>
-            <div class='span3 testimonial-box'>
-              <img class="img-circle" src="/images/multipage/staff/jp.jpg" />
-              <h4>Jean-Paul Bagnis</h4>
-              <small>Designer graphique et d'interface de Merci Edgar / Concepteur / Directeur artistique freelance</small>
-              <!-- %p= t("home.team.jp.description").html_safe -->
-              <a class='sml-link bigger' data-toggle='modal' href='#team-jp' title=''>En savoir plus</a>
-              <!-- %a.accordion-toggle.sml-link.bigger{"data-parent" => "#myCollapsible", "data-toggle" => "collapse", href: "#collapse3"}= t("home.team.more") -->
-            </div>
-            <div class='span3 testimonial-box'>
-              <img class="img-circle" src="/images/multipage/staff/aline.jpg" />
-              <h4>Aline Texier</h4>
-              <small>Conseillère technique pour Merci Edgar / Chargée de production du label Adone</small>
-              <!-- %p= t("home.team.aline.description") -->
-              <a class='sml-link bigger' data-toggle='modal' href='#team-aline' title=''>En savoir plus</a>
-              <!-- %a.accordion-toggle.sml-link.bigger{"data-parent" => "#myCollapsible", "data-toggle" => "collapse", href: "#collapse4"}= t("home.team.more") -->
-            </div>
-          </div>
-          <!-- /ROW -->
-          <div class='row-fluid'>
-            <div class='span3 testimonial-box'>
-              <img class="img-circle" src="/images/multipage/staff/lylian.jpg" />
-              <h4>Lylian Monty</h4>
-              <small>Gardien des chiffres et des grands équilibres de Merci Edgar / Ecrivain / Fleuriste / Manager conseil</small>
-              <!-- %p= t("home.team.lylian.description") -->
-              <a class='sml-link bigger' data-toggle='modal' href='#team-lylian' title=''>En savoir plus</a>
-            </div>
-            <div class='span3 testimonial-box'>
-              <img class="img-circle" src="/images/multipage/staff/nath.jpg" />
-              <h4>Nathalie Jacomet Young</h4>
-              <small>Responsable de l'internationalisation pour Merci Edgar / Traductrice Freelance</small>
-              <!-- %p= t("home.team.nath.description") -->
-              <a class='sml-link bigger' data-toggle='modal' href='#team-nathalie' title=''>En savoir plus</a>
-            </div>
-            <div class='span3 testimonial-box'>
-              <img class="img-circle" src="/images/multipage/staff/fred.jpg" />
-              <h4>Frédéric Desreumaux</h4>
-              <small>Responsable de la production audiovisuelle pour Merci Edgar / Réalisateur / Chef opérateur</small>
-              <a class='sml-link bigger' data-toggle='modal' href='#team-fred' title=''>En savoir plus</a>
-            </div>
-            <div class='span3 testimonial-box'>
-              <img class="img-circle" src="/images/multipage/staff/guillaume.jpg" />
-              <h4>Guillaume Ledun</h4>
-              <small>Réalisateur, Monteur de Merci Edgar / Comédien, metteur en scène, régisseur général / Fondateur de l'Oeil à Mémoires</small>
-              <!-- %p -->
-              <!-- Je suis un spécialiste en rien du spectacle vivant depuis plus de vingt ans. Principalement comédien, mais metteur-en-scène un peu, des créations lumières aussi,  régisseur général et depuis quelques temps l'envie de filmer ce que je connaissais de mieux, la scène. -->
-              <!-- J'ai co-fondé L'Œil à Mémoires, une association audiovisuelle qui, des coulisses aux représentations, se fait témoins des artistes qui travaillent ! Théâtre, jazz, marionnettes, chansons... A ce jour plus de 80 montages et aussi des films plus "institutionnels" pour des gros groupes du CAC 40 ( si, si !)… Et même une-pub-qué-passé-àla-télé !.. un peu de clips vidéos et quelques pilotes pour des webs séries ! Des projets pleins la tête en Webdocumentaire, en vidéo projection, certes se concrétisent, mais les journées sont trop courtes ! Heureusement que je peux faire des montages pour Edgar bien souvent les dimanches, ça me repose ! -->
-              <a class='sml-link bigger' data-toggle='modal' href='#team-guillaume' title=''>En savoir plus</a>
-            </div>
-          </div>
-        </div>
-      </section>
-      <space></space>
-      <!-- / --_________________________________________________________ -->
-      <div class='modal' id='team-robi' style='display: none'>
-        <div class='modal-header'>
-          <a class='close' data-dismiss='modal'>x</a>
-          <h3>Christophe Robillard</h3>
-        </div>
-        <div class='modal-body'>
-          <div class='row-fluid'>
-            <div class='span2'>
-              <img class="img-circle" src="/images/multipage/staff/robi.jpg" />
-            </div>
-            <div class='span10'>
-              <small class='title'>Monteur de Merci Edgar</small>
-              <small class='title'>Developpeur</small>
-              <p>
-                Je me présente. Je m’appelle Christophe Robillard, j’ai 35 ans. On me surnomme Robi. Je suis chanteur, pianiste, compositeur. Je ne vis pas de la scéne. Comme beaucoup d’intermittents du spectacle, j’ai d’autres activités à côté. Certains donnent des cours de chant, de guitare, de théâtre. Personnellement, ce qui me fait vivre, c’est l’informatique.
-              </p>
-              <p>
-                Comme beaucoup, je n’ai pas de tourneur, de chargé de diffusion, d’agent qui m’aiderait à développer plus efficacement mon projet. Alors je dépense une énergie folle dans la communication, dans la recherche de nouvelles dates. Comme beaucoup, la majeure partie de mon temps est consacrée à des tâches non artistiques, mais indispensables pour continuer.
-              </p>
-              <p>
-                L’année derniére, je jouais mon spectacle au Sentier des Halles à Paris, accompagné d’Olivia Scemama à la contrebasse et de deux comédiens improvisateurs, Mélanie Le Moine et Thierry Bilisko. Je ne vous cache pas que nous étions heureux d’avoir l’opportunité de jouer dans cette salle qui a une petite renommée (elle appartient à l’Olympia). Mon passage à Vivement Dimanche chez Drucker y a sans doute été pour quelque chose... Nous avons rempli les deux dates. Evidemment, ce n’est pas trés compliqué, c’est une petite salle ; mais nous étions content d’avoir réussi à mobiliser notre public.
-              </p>
-              <p>
-                Il y avait un hic. Pas un programmateur ! Pas un directeur de salle ! Aucun ne s’était déplacé ! Ce n’était pas faute de les avoir informé. Qu’on se comprenne bien, je ne leur jette pas la pierre, mais c’est à ce moment que j’ai pris conscience que je n’étais pas suffisamment outillé pour ìvendreî mon spectacle à des salles, communiquer intelligemment aux professionnels de la profession ;)
-              </p>
-              <p>
-                Alors j’ai enfilé ma casquette d’informaticien et me suis dit : "Aujourd’hui, je n’ai pas  de tourneur, pas de chargé de diffusion ? Qu’à cela ne tienne, je vais en inventer un, il s’appellera Edgar !" Et c’est ainsi que m’est venue l’idée de développer un logiciel qui aide les artistes sans entourage professionnel à être plus efficace dans leur communication et dans leur recherche de dates. Edgar proposera donc aux artistes des outils les aidant au quotidien dans toutes leurs t‚ches non artistiques.
-              </p>
-              <p>
-                Dans mes rêves les plus fous, je me suis mis à imaginer Edgar proposer plusieurs outils :
-              </p>
-              <ul>
-                <li>un logiciel pour gérer ses différents contacts professionnels, en faire le suivi, leur adresser des mails en masse sans avoir à bricoler avec un fichier excel de 40 colonnes et un logiciel de mail qui m’interdit d’en envoyer plus de 50 !</li>
-                <li>des video d’interview de directeurs de salle, de tourneurs, de journalistes, de chargés de diffusion, permettant à l’artiste de mieux appréhender l’univers du spectacle vivant.</li>
-              </ul>
-              Bref, je me suis mis à rêver... Et puis j’ai décidé de donner vie à Edgar.
-              <p></p>
-              <p>
-                Alors on dit quoi ? Merci Edgar !
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class='modal' id='team-aurelie' style='display: none'>
-        <div class='modal-header'>
-          <a class='close' data-dismiss='modal'>x</a>
-          <h3>Aurelie Thuot</h3>
-        </div>
-        <div class='modal-body'>
-          <div class='row-fluid'>
-            <div class='span2'>
-              <img class="img-circle" src="/images/multipage/staff/aurelie.jpg" />
-            </div>
-            <div class='span10'>
-              <small class='title'>Conseillère technique pour Merci Edgar / Fondatrice et directrice du label Adone / Fondatrice et consultante d'Aglae Services</small>
-              <p>
-                Forte d’un cursus en sociologie puis en conception et mise en oeuvre de projets culturels, je me suis spécialisée dans les professions du spectacle vivant et notamment la musique en suivant des formations relatives au management d’artistes, à la production de spectacle, à l’édition musicale...
-              </p>
-              <p>
-                Après avoir été attachée de presse sur la production d’art lyrique Norma Yeu 2001, conseillère administrative et chargée de diffusion pour la compagnie de théâtre Déli Délo ainsi qu’assistante de Cathy Bitton (manager de Laurent Voulzy, Susheela Raman, …) en 2002, j'ai travaillé pendant deux ans comme assistante administrative au sein de la compagnie de théâtre Entrées de Jeu spécialisée dans les débats théâtraux. Cette expérience m'a permis d’acquérir les compétences administratives requises dans le milieu spécifique du spectacle vivant.
-              </p>
-              <p>
-                Ces rencontres m’ont menée à la musique. D’abord tourneuse et attachée de presse pour le groupe Oldelaf et monsieur D en free lance, je fonde en 2004 en collaboration avec Les Fatals Picards la structure Adone.
-              </p>
-              <p>
-                Adone est une structure associative, un label à taille humaine spécialisé dans la production de spectacles (musique, humour et jeune public), le management d'artistes, l'accompagnement de carrière, l'encadrement administratif et la production phonographique.
-                Nous travaillons aujourd'hui avec Les Fatals Picards, Les Rois de la Suède, JereM, L'Armée du love, Les Petites Bourrettes, H2ommes et Arnaud Maillard ).
-              </p>
-              <p>
-                J'ai en parallèle fondé la structure Aglae Services en collaboration avec Clément Praud, qui propose des services en traitement des salaires, conseils aux projets, recherches de financements et formations.
-              </p>
-              <p>
-                Je donne aussi régulièrement des formations autour de la production de spectacle et le management artistique auprès d'organismes tels qu'ATLA ou Formations sur mesures.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class='modal' id='team-jp' style='display: none'>
-        <div class='modal-header'>
-          <a class='close' data-dismiss='modal'>x</a>
-          <h3>Jean-Paul Bagnis</h3>
-        </div>
-        <div class='modal-body'>
-          <div class='row-fluid'>
-            <div class='span2'>
-              <img class="img-circle" src="/images/multipage/staff/jp.jpg" />
-            </div>
-            <div class='span10'>
-              <small class='title'>Designer graphique et d'interface de Merci Edgar / Concepteur / Directeur artistique freelance</small>
-              <p>
-                Je consacre une grande part de mon activité à créer des campagnes de communication, identités visuelles et sites Internet pour de jeunes entreprises, des projets associatifs ou engagés.
-              </p>
-              <p>
-                La variété des domaines d'activité de mes commanditaires m'ouvrent des horizons insoupçonnés, et les rencontres nourrissent ma curiosité toujours à l'affût de nouvelles maniéres de travailler et de penser.
-              </p>
-              <p>
-                Par ailleurs le bénévolat de compétences pour des associations permet un double saut : un engagement au service de causes qui m'importent et une découverte de pratiques alternatives, car c'est dans ces endroits que se forgent de nouveaux modéles (économiques, éthiques, de travail collaboratif, etc.).
-              </p>
-              <p>
-                Selon moi le métier de designer consiste à résoudre un probléme en ayant toujours en ligne de mire l'humain et la recherche de la simplicité.
-              </p>
-              <p>
-                Le projet Merci Edgar m'a plu d'emblée car il offre aux artistes des outils pour travailler plus efficacement, libérant ainsi du temps pour ce qui compte le plus : la créativité.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class='modal' id='team-aline' style='display: none'>
-        <div class='modal-header'>
-          <a class='close' data-dismiss='modal'>x</a>
-          <h3>Aline Texier</h3>
-        </div>
-        <div class='modal-body'>
-          <div class='row-fluid'>
-            <div class='span2'>
-              <img class="img-circle" src="/images/multipage/staff/aline.jpg" />
-            </div>
-            <div class='span10'>
-              <small class='title'>Conseillére technique pour Merci Edgar / Chargée de production du label Adone</small>
-              <p>
-                A défaut d'études supérieures, aprés mon bac je déménage à Paris et intégre les Cours Florent (cours d'art dramatique) avec le rêve fou de devenir comédienne et surtout.. d'en vivre ! Je ferai les 3 ans du cursus mais la réalité du métier me rattrape vite car en paralléle des cours, je découvre le Théâtre Les Blancs Manteaux et je commence à y travailler en tant qu'accessoiriste sur un spectacle. Rapidement, j'y trouve ma place et devient assistante de direction : j'y resterai 4 ans.
-              </p>
-              <p>
-                Années durant lesquelles la programmation humour du théâtre se développera jusqu'à la programmation de concerts tous les soirs : mes premiéres rencontres avec le milieu des musiques actuelles. A côté de cette activité, je continue, tous les ans, à m'investir sur un festival : Le Dinard Comedy Festival (anciennement Les Estivales du rire de Dinard) : je fais partie d l'équipe organisatrice et sur l'événement j'occupe le poste de coordinatrices des artistes.
-              </p>
-              <p>
-                Vient un temps où je souhaite me professionnaliser et développer mes compétences dans le milieu culturel : j'intégre la formation "Management artistique et culturel" de l'Ecole Atla. Trés vite aprés ma formation, j'intégre Adone où j'occupe actuellement le poste de Chargée de production.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class='modal' id='team-lylian' style='display: none'>
-        <div class='modal-header'>
-          <a class='close' data-dismiss='modal'>x</a>
-          <h3>Lylian Monty</h3>
-        </div>
-        <div class='modal-body'>
-          <div class='row-fluid'>
-            <div class='span2'>
-              <img class="img-circle" src="/images/multipage/staff/lylian.jpg" />
-            </div>
-            <div class='span10'>
-              <small class='title'>Gardien des chiffres et des grands équilibres de Merci Edgar / Ecrivain / Fleuriste / Manager conseil</small>
-              <p>
-                Quelque part entre Full Monty et Monty Python, il y a Lylian Monty. Je suis un artisan au service de la reine des fleurs (fleuriste en un mot !) doublé d’un consultant au royaume de la technologie, à moins que ce ne soit le contraire.
-              </p>
-              <p>
-                J’ai écrit des romans singuliers parmi lesquels un triptyque plutôt acide qui m’a valu quelques lecteurs dont Robi de Robi & Co. De fil en aiguille,  j’ai ensuite imaginé des paroles pour des chansons lumineuses que Robi a systématiquement refusées à l’exception d’une seule : un must ! Avec Robi, nous avons réfléchi à plusieurs projets ces derniéres années jusqu’à ce que germe dans son esprit l’idée de Merci Edgar !
-              </p>
-              <p>
-                Ma marque de fabrique c’est l’éclectisme et une passion sans limite pour la création artistique. Merci Edgar est résolument au service d’artistes créatifs désireux de se produire sur scéne. Alors, prêts pour le grand saut ?
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class='modal' id='team-nathalie' style='display: none'>
-        <div class='modal-header'>
-          <a class='close' data-dismiss='modal'>x</a>
-          <h3>Nathalie Jacomet Young</h3>
-        </div>
-        <div class='modal-body'>
-          <div class='row-fluid'>
-            <div class='span2'>
-              <img class="img-circle" src="/images/multipage/staff/nath.jpg" />
-            </div>
-            <div class='span10'>
-              <small class='title'>
-                Responsable de l'internationalisation pour Merci Edgar / Traductrice Freelance
-              </small>
-              Après avoir travaillé en tant que chef de projet multilingue chez Levi's et Nike pendant 10 ans en voyageant dans toute l'Europe, j'ai décidé de devenir traductrice freelance spécialisée dans les sites web, le marketing et la communication. Fan de rock, blues, musiques alternatives, j'adore sortir et découvrir de nouveaux sons, en France comme à l'étranger.
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class='modal' id='team-fred' style='display: none'>
-        <div class='modal-header'>
-          <a class='close' data-dismiss='modal'>x</a>
-          <h3>Frédéric Desreumaux</h3>
-        </div>
-        <div class='modal-body'>
-          <div class='row-fluid'>
-            <div class='span2'>
-              <img class="img-circle" src="/images/multipage/staff/fred.jpg" />
-            </div>
-            <div class='span10'>
-              <small class='title'>
-                Responsable de la production audiovisuelle pour Merci Edgar / Réalisateur / Chef opérateur
-              </small>
-              Je suis un ex-jeune réalisateur indépendant de courts métrages diffusés dans des festivals de films à travers le monde, notamment un reboot du Zombie de Romero et  je suis également chef opérateur de documentaires sur des sujets divers diffusés sur France Télévision, notamment un film sur le fonctionnement d'un CECOS (centre d'étude et de conservation des œufs et du sperme humains)
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class='modal' id='team-guillaume' style='display: none'>
-        <div class='modal-header'>
-          <a class='close' data-dismiss='modal'>x</a>
-          <h3>Guillaume Ledun</h3>
-        </div>
-        <div class='modal-body'>
-          <div class='row-fluid'>
-            <div class='span2'>
-              <img class="img-circle" src="/images/multipage/staff/guillaume.jpg" />
-            </div>
-            <div class='span10'>
-              <small class='title'>Réalisateur, Monteur de Merci Edgar / Comédien, metteur en scène, régisseur général / Fondateur de l'Oeil à Mémoires</small>
-              <p>
-                Je suis un spécialiste en touche à tout du spectacle vivant depuis plus de vingt ans. Principalement comédien, metteur-en-scène un peu, des créations lumières aussi, régisseur général, de solides expériences mais depuis quelques temps l'envie de filmer ce que je connaissais de mieux, la scène.
-              </p>
-              <p>
-                J'ai co-fondé L'Œil à Mémoires, une association audiovisuelle qui, des coulisses aux représentations, se fait témoins des artistes qui travaillent ! Théâtre, jazz, marionnettes, danse, chansons... A ce jour plus de 80 montages et aussi des films plus "institutionnels" pour des gros groupes du CAC 40 ( si, si !)… Et même une-pub-qué-passé-à-la-télé !.. Un peu de clips vidéos et quelques pilotes pour des webs séries !
-              </p>
-              <p>
-                Formé en Webdocumentaire, en vidéo-mapping, certains projets se concrétisent, mais que les journées sont courtes ! Heureusement que je peux, réaliser quelques interviews et faire des montages, bien souvent les dimanches, pour Edgar, ça me repose !
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
       <section class='cta cta-black' id='cta-enroll'>
         <div class='container'>
           <h3>Le 1er novembre 2015, j'adhère !</h3>
           <p>L'utilisation du logiciel de booking Merci Edgar est aujourd'hui gratuite.</p>
           
-          <p>Elle sera reservée aux adhérents de l'association à partir du 1er novembre 2015.</p>
+          <p>Elle sera reservée aux adhérents de <a href="/association.html">l'association</a> à partir du 1er novembre 2015.</p>
           
           <p>Le montant de l'adhésion est symbolique : elle est fixée à 20€ par an pour un compte avec un seul utilisateur, 50€/an pour un compte multi-utilisateurs</p>
           
-          <p>Réponses aux questions fréquemment posées sur l'<a href="http://blog.merciedgar.com/post/108265370123/reponses-aux-questions-frequemment-posees">association Merci Edgar</a>.</p>
+          <p><a href="/association.html">En savoir plus sur l'association</a></p>
           <div class='row-fluid'>
             <div class='span6 offset3'>
               <a href="http://login.merciedgar.com/fr/users/sign_up"><button class='btn btn-large btn-danger btn-block'>Je m'inscris maintenant !</button>
