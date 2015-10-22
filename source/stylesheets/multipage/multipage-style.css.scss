@@ -17,6 +17,7 @@ $lblue:   lighten( $dblue, 40% );
 
 $vlblue:  rgba(131, 131, 137, 1); //lighten( $dblue, 60% );
 $beige:   #edede8;
+$light_beige:   #FFFAF2;
 $dbeige:  rgba(194, 194, 177, 1);
 $dbeige2: rgba(209, 209, 197, 1);
 $dbeige3: rgba(102, 102, 61, 1);
@@ -3137,12 +3138,12 @@ a.btn-iconic {
 
 
 .label-large i {
-  font-size: 70px;
+  font-size: 90px;
   display: inline-block;
-  width: 140px;
-  height: 140px;
-  line-height: 140px;
-  background: white;
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  background: $light_beige;
   -webkit-border-radius: 200px;
   -moz-border-radius: 200px;
   border-radius: 200px;
@@ -3153,7 +3154,7 @@ a.btn-iconic {
 #soon-section {
   background: $white;
   .label-large i {
-    background: $beige;
+    background: $light_beige;
   }
   .label-blocks p {padding-top:0; margin:0;}
 }
