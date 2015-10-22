@@ -8,15 +8,15 @@ bleu foncé #6bcdd6
 old blue : 5b c0de
  */
 /******************** GLOBAL ******************************/
-/* line 79, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 80, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 :focus {
   outline: 0; }
 
-/* line 80, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 81, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 a:focus {
   outline: none; }
 
-/* line 81, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 82, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 a, .btn-link {
   color: #30303a;
   -webkit-transition: color 0.2s ease-in-out;
@@ -24,30 +24,30 @@ a, .btn-link {
   -ms-transition: color 0.2s ease-in-out;
   -o-transition: color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out; }
-  /* line 84, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 85, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   a:hover, a:active, a:focus, .btn-link:hover, .btn-link:active, .btn-link:focus {
     color: #50beb4;
     text-decoration: none; }
 
-/* line 88, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 89, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 input:focus::-webkit-input-placeholder {
   color: #fff; }
 
-/* line 89, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 90, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 input:focus:-moz-placeholder {
   /* Firefox 18- */
   color: #fff; }
 
-/* line 90, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 91, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 input:focus::-moz-placeholder {
   /* Firefox 19+ */
   color: #fff; }
 
-/* line 91, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 92, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 input:focus:-ms-input-placeholder {
   color: #fff; }
 
-/* line 94, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 95, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 body {
   font-size: 16px;
   font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
@@ -60,43 +60,43 @@ body {
   color: #30303a;
   background: #edede8; }
 
-/* line 110, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 111, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .main-wrapper {
   padding-top: 80px; }
 
 /* ______________________________________________________________ Headlines   */
-/* line 113, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 114, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 h1, h2, h3, h4 {
   font-weight: 300;
   display: inline;
   line-height: inherit; }
 
-/* line 115, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 116, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 h1 {
   font-size: 37px;
   color: #ff5a3e; }
 
-/* line 116, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 117, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 h2 {
   font-size: 36px; }
 
-/* line 118, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 119, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 h3 {
   font-size: 28px; }
 
-/* line 119, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 120, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 h4 {
   font-size: 24px; }
 
-/* line 122, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 123, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 h5 {
   font-size: 20px; }
 
-/* line 123, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 124, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 h6 {
   font-size: 17px; }
 
-/* line 126, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 127, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .sticker {
   position: absolute;
   -webkit-user-select: none;
@@ -104,7 +104,7 @@ h6 {
   -moz-user-select: none;
   -o-user-select: none;
   user-select: none; }
-  /* line 129, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 130, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .sticker.sticker-beta {
     position: fixed;
     padding: 0px 50px;
@@ -125,7 +125,7 @@ h6 {
     -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', M11=0.52532, M12=--0.8509, M21=-0.8509, M22=0.52532)";
     zoom: 1; }
 
-/* line 145, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 146, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .sticker.sticker-big {
   padding: 8px 23px;
   -webkit-transform: rotate(-14deg);
@@ -145,11 +145,11 @@ h6 {
   background-color: #3a3a44;
   color: #fff;
   font-size: 17px; }
-  /* line 155, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 156, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .sticker.sticker-big .bold {
     font-size: 18px;
     font-weight: bold; }
-/* line 157, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 158, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .sticker.sticker-small {
   padding: 1px 10px;
   -webkit-transform: rotate(20deg);
@@ -173,45 +173,45 @@ h6 {
   right: -8px;
   top: 8px; }
 
-/* line 179, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 180, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .logotype {
   position: absolute;
   font-size: 100px; }
 
-/* line 184, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 185, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hidden {
   display: none !important; }
 
 /*.logotype {
 @include transition(all, .2s)
 }*/
-/* line 190, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 191, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .ed-icon-home:before {
   font-size: .8em; }
 
-/* line 192, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 193, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 a .ed-icon-ed-logo {
   color: #30303a; }
 
-/* line 196, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 197, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 a .ed-icon-ed-logo:hover {
   color: #ff5a3e; }
 
-/* line 200, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 201, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .ed-icon-ed-logo-bkg {
   color: #fff; }
 
 /* makes the font 33% larger relative to the fa-icon container */
-/* line 205, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 206, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .ed-icon-large:before {
   font-size: 100px; }
 
-/* line 209, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 210, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .logo, #baseline {
   display: inline-block;
   float: left; }
 
-/* line 213, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 214, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .logo {
   display: inline-block;
   /*width:220px;
@@ -228,7 +228,7 @@ font-size:18px;
 line-height:19px;
 }
  */
-/* line 230, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 231, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #langswitch {
   float: right;
   right: 0px;
@@ -236,35 +236,35 @@ line-height:19px;
   font-weight: bold;
   margin-left: 20px; }
 
-/* line 236, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 237, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #langswitch a {
   color: #30303a; }
 
-/* line 238, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 239, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #langswitch .active, #langswitch a:hover {
   border-bottom: #30303a 2px solid;
   text-decoration: none;
   padding-bottom: 2px; }
 
-/* line 244, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 245, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #socialfixed, #langswitch, #login-menu {
   padding-top: 6px; }
 
-/* line 246, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 247, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #socialfixed, #login-menu {
   height: 22px;
   float: right; }
 
-/* line 252, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 253, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .social-left li a {
   color: #30303a; }
 
-/* line 254, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 255, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .social-left li a:hover {
   text-decoration: none;
   color: #ff5a3e; }
 
-/* line 259, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 260, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 ul.social-left {
   display: inline-block;
   margin-top: 0px;
@@ -273,7 +273,7 @@ ul.social-left {
   padding-left: 0px;
   font-size: 21px; }
 
-/* line 269, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 270, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 ul.social-left li {
   display: block;
   float: left;
@@ -289,37 +289,37 @@ ul.social-left li {
   -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out; }
 
-/* line 281, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 282, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .tooltip.in {
   opacity: 1;
   filter: alpha(opacity=100); }
 
-/* line 286, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 287, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .invisible {
   display: none; }
 
-/* line 288, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 289, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #login-tab {
   float: right;
   margin-top: 9px;
   margin-left: 24px; }
 
-/* line 294, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 295, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #login-form {
   float: right;
   margin-top: 4px; }
 
-/* line 299, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 300, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #login-form form {
   margin: 0; }
 
-/* line 301, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 302, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #login-form input {
   margin-bottom: 0;
   box-sizing: content-box;
   -moz-box-sizing: content-box; }
 
-/* line 308, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 309, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #login-form input:focus, #login-form input:-webkit-autofill, #login-form textarea:-webkit-autofill,
 #login-form input[type="text"]:focus, #login-form input[type="password"]:focus {
   background-image: none;
@@ -329,7 +329,7 @@ ul.social-left li {
   color: #fff;
   box-shadow: none; }
 
-/* line 318, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 319, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .close-btn, .forgot-btn {
   width: 10px;
   height: 10px;
@@ -338,13 +338,13 @@ ul.social-left li {
   margin-left: 8px;
   margin-top: 3px; }
 
-/* line 320, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 321, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .forgot-btn {
   float: none;
   margin-left: 0px;
   background: #ff5a3e; }
 
-/* line 325, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 326, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .login-btn {
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
@@ -359,27 +359,27 @@ ul.social-left li {
   -ms-transition: background 0.2s ease-in-out;
   -o-transition: background 0.2s ease-in-out;
   transition: background 0.2s ease-in-out; }
-  /* line 338, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 339, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .login-btn:hover {
     background: #30303a;
     color: #fff;
     text-decoration: none;
     cursor: pointer; }
 
-/* line 346, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 347, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .login-btn, .close-btn {
   background: #50beb4;
   color: #fff;
   font-weight: bold; }
-  /* line 352, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 353, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .login-btn:hover, .close-btn:hover {
     background: #30303a; }
 
-/* line 359, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 360, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .login-btn a {
   color: #fff; }
 
-/* line 365, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 366, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .navbar .nav > li > a.btn-enroll {
   text-shadow: none;
   background: #ff5a3e;
@@ -389,53 +389,53 @@ ul.social-left li {
   -webkit-border-radius: 50px;
   -moz-border-radius: 50px;
   border-radius: 50px; }
-  /* line 372, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 373, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .navbar .nav > li > a.btn-enroll:hover, .navbar .nav > li > a.btn-enroll:focus {
     color: #fff;
     background: #50beb4; }
 
-/* line 378, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 379, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .close-btn {
   margin-top: -26px;
   padding: 4px 8px; }
-  /* line 384, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 385, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .close-btn:hover {
     background: #3a3a44; }
 
-/* line 389, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 390, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .form-signin {
   display: inline-block; }
 
-/* line 390, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 391, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .form-signin .small {
   width: 100px; }
 
-/* line 391, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 392, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .form-signin .medium {
   width: 240px; }
 
 /**********/
-/* line 398, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 399, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .navbar .nav > li > a {
   color: #30303a; }
 
-/* line 400, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 401, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .black {
   color: #30303a; }
 
-/* line 404, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 405, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 ul.engagements {
   list-style: outside;
   list-style-position: outside;
   list-style: none;
   margin: 10px 0 0  50px; }
 
-/* line 409, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 410, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 ul.engagements li {
   text-indent: -25px;
   margin-bottom: 12px; }
 
-/* line 414, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 415, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 ul.engagements li:before {
   color: #ff5a3e;
   font-family: 'icomoon';
@@ -446,23 +446,23 @@ ul.engagements li:before {
   top: .1em;
   /* set the vertical position of the bullet if necessary. Make sure to use em or % */ }
 
-/* line 423, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 424, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 h4 {
   font-size: 27px;
   line-height: 32px;
   display: inherit; }
 
-/* line 429, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 430, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 h1, h2, h3, h4 {
   color: #ff5a3e;
   font-weight: normal;
   font-family: Helvetica, Arial, "Lucida Grande", sans-serif; }
 
-/* line 439, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 440, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit .span12 {
   text-align: center; }
 
-/* line 441, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 442, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .slogan {
   color: #30303a;
   font-size: 46px;
@@ -470,55 +470,55 @@ h1, h2, h3, h4 {
   margin-bottom: 24px;
   font-weight: bold; }
 
-/* line 449, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 450, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .argu {
   text-align: left; }
 
-/* line 453, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 454, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .slogan .de {
   font-size: 38px; }
 
-/* line 457, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 458, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .slogan-primo {
   /*color:$orange;*/
   margin-bottom: 15px; }
 
-/* line 464, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 465, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .slogan-primo:before {
   padding-top: 0px;
   content: "–"; }
 
-/* line 470, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 471, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .slogan-secundo:before {
   content: "+"; }
 
-/* line 475, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 476, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .section-title {
   margin-bottom: 40px;
   margin-top: 10px;
   text-align: center;
   display: block; }
 
-/* line 480, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 481, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .subtitle {
   text-align: center;
   display: block;
   margin-bottom: 20px; }
 
-/* line 484, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 485, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .modal-header h3 {
   font-size: 36px;
   border: none; }
 
-/* line 490, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 491, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .container {
   max-width: 1170px; }
 
-/* line 497, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 498, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .subtitle {
   min-height: 50px; }
 
-/* line 502, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 503, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 small {
   color: #30303a;
   font-weight: bold;
@@ -527,7 +527,7 @@ small {
   display: block;
   margin-bottom: 10px; }
 
-/* line 511, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 512, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .main-wrapper {
   height: 100%;
   margin-left: auto;
@@ -538,7 +538,7 @@ small {
   position: relative;
   width: 100%; }
 
-/* line 522, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 523, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .sml-link {
   font-size: 0.9em;
   float: right;
@@ -549,11 +549,11 @@ small {
   -ms-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out; }
-  /* line 529, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 530, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .sml-link:hover {
     color: #ff5a3e;
     text-decoration: none; }
-  /* line 531, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 532, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .sml-link:before {
     font-family: 'icomoon';
     content: "\e67a";
@@ -564,7 +564,7 @@ small {
     padding-top: 2px;
     vertical-align: middle; }
 
-/* line 544, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 545, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .bigger {
   font-size: 0.9em;
   font-weight: bold;
@@ -572,32 +572,32 @@ small {
   color: #50BFB2;
   bottom: 0px; }
 
-/* line 550, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 551, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .ed-icon-check:before {
   font-size: 20px; }
 
-/* line 553, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 554, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #news-section span6 {
   height: 100%; }
 
-/* line 554, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 555, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .row-fluid .span6 {
   height: 100%; }
 
 /*************** FIX BS MARGIN on fluid scafolding **************/
-/* line 560, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 561, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #container-folio.row-fluid .span6:nth-child(2n+1) {
   margin-left: 0px; }
 
-/* line 564, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 565, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #container-folio.row-fluid .span4:nth-child(3n+1) {
   margin-left: 0px; }
 
-/* line 568, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 569, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #container-folio.row-fluid .span3:nth-child(4n+1) {
   margin-left: 0px; }
 
-/* line 572, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 573, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .modali {
   position: absolute;
   width: 560px;
@@ -642,27 +642,27 @@ right:0px;
 width:0% !important;
 }
  */
-/* line 614, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 615, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .modal-header {
   padding: 19px 15px; }
 
 /*************************** TOP ******************************/
-/* line 621, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 622, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .navbar {
   font-size: 16px;
   /*background:url(../img/shadowtop.png) center bottom no-repeat;*/
   /* padding-bottom:20px;
   margin-bottom:-20px;*/ }
 
-/* line 627, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 628, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .nav-collapse {
   margin-top: 16px; }
 
-/* line 629, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 630, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .navbar .container {
   background: #fff; }
 
-/* line 633, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 634, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .navbar-fixed-top .navbar-inner {
   border-bottom: 2px solid #50beb4;
   /* #50BFB2 #C2C2B1*/
@@ -670,11 +670,11 @@ width:0% !important;
   height: 60px;
   padding: 10px 0px; }
 
-/* line 640, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 641, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .navbar .nav {
   margin-right: 0px; }
 
-/* line 645, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 646, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .navbar .nav > li > a {
   border-bottom: 2px solid transparent;
   padding: 10px 0px;
@@ -682,13 +682,13 @@ width:0% !important;
   margin: 0;
   margin-left: 28px;
   font-weight: bold; }
-  /* line 652, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 653, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .navbar .nav > li > a:hover {
     background: none;
     color: #ff5a3e;
     border-bottom: 2px solid transparent; }
 
-/* line 659, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 660, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .navbar .nav .active > a, .navbar .nav .active > a:hover, .navbar .nav .active > a:focus {
   background: none;
   color: #ff5a3e;
@@ -733,7 +733,7 @@ color: #57A4C8;
 
 }
  */
-/* line 706, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 707, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .navbar-fixed-top, .navbar-static-top {
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
@@ -741,7 +741,7 @@ color: #57A4C8;
   transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out; }
 
-/* line 714, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 715, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .navbar-fixed-top .navbar-inner,
 .navbar-static-top .navbar-inner {
   -webkit-box-shadow: none;
@@ -786,17 +786,17 @@ margin-top:2px;
 font-size:80px;
 }
  */
-/* line 763, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 764, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 section {
   padding-top: 50px;
   padding-bottom: 50px; }
 
-/* line 769, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 770, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 section:last-child, #team-section {
   border-bottom: none; }
 
 /***************************** SOCIAL BUTTONS ******************************/
-/* line 781, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 782, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 ul.social-top {
   float: right;
   display: inline-block;
@@ -806,7 +806,7 @@ ul.social-top {
   padding-left: 0px;
   font-size: 36px; }
 
-/* line 791, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 792, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 ul.social-top li a {
   background: none;
   color: #fff;
@@ -824,20 +824,20 @@ ul.social-top li a {
   width: 40px;
   background-position: Opx 0px; }
 
-/* line 812, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 813, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .thumbnail:hover ul.social-top li:hover {
   color: #ff5a3e; }
 
-/* line 818, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 819, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .thumbnail:hover ul.social-top li {
   color: #16a085; }
 
-/* line 822, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 823, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .thumbnail:hover ul.social-top li a {
   color: #fff; }
 
 /************************** BS ELEMENTS *********************************/
-/* line 832, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 833, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .well {
   color: #2b2b2b;
   background: none;
@@ -848,12 +848,12 @@ ul.social-top li a {
   margin-bottom: 40px;
   font-size: 120%; }
 
-/* line 843, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 844, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .well h2 {
   font-size: 48px;
   line-height: 1; }
 
-/* line 849, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 850, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .thumbnail {
   background-color: #FFF;
   display: block;
@@ -866,11 +866,11 @@ ul.social-top li a {
   padding: 0px;
   margin-bottom: 30px; }
 
-/* line 866, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 867, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .thumbnail img {
   border-bottom: 1px solid #dedede; }
 
-/* line 870, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 871, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .img-circle {
   /*-webkit-box-shadow: 0px 0px 3px rgba(50, 50, 50, 0.41);
   -moz-box-shadow:  0px 0px 3px rgba(50, 50, 50, 0.41);
@@ -888,7 +888,7 @@ margin-top:21px;
 }
 .youto .img-circle {border: 2px solid $orange;}
  */
-/* line 888, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 889, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .navbar .btn-navbar,
 .navbar .btn-navbar:hover {
   float: right;
@@ -917,7 +917,7 @@ margin-top:21px;
   -moz-border-radius: 2px;
   border-radius: 2px; }
 
-/* line 918, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 919, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .navbar .btn-navbar .ed-icon-bar {
   width: 30px;
   height: 4px;
@@ -932,7 +932,7 @@ margin-top:21px;
   float: none; }
 
 /************************************** CUSTOM STYLES *************************/
-/* line 933, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 934, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn.btn-action {
   background: url(../img/actionbtnalt.jpg) center center no-repeat;
   background-size: 100% 100%;
@@ -941,14 +941,14 @@ margin-top:21px;
   min-width: 100%;
   text-transform: uppercase; }
 
-/* line 941, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 942, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn.btn-action:hover {
   background-size: 120% 120%; }
 
 /*****
 STORES ICONS 
  ********/
-/* line 949, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 950, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .anroid-logo {
   display: inline-block;
   float: left;
@@ -957,7 +957,7 @@ STORES ICONS
   background: url(../img/androidicon.png) center center no-repeat;
   margin-left: 5px; }
 
-/* line 957, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 958, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .appstore-logo {
   display: inline-block;
   float: left;
@@ -966,7 +966,7 @@ STORES ICONS
   background: url(../img/appsticon.png) center center no-repeat;
   margin-left: 5px; }
 
-/* line 966, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 967, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .gplay-logo {
   display: inline-block;
   float: left;
@@ -975,7 +975,7 @@ STORES ICONS
   background: url(../img/gplay.png) center center no-repeat;
   margin-left: 5px; }
 
-/* line 975, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 976, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .feature-box {
   position: relative;
   text-align: center;
@@ -985,54 +985,54 @@ STORES ICONS
   padding: 10px;
   margin: 0 0 20px 0; }
 
-/* line 985, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 986, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .feature-box p {
   font-size: 15px;
   margin-bottom: 33px; }
 
-/* line 989, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 990, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .feature-box-image {
   height: 170px;
   margin: 31px 0 27px;
   vertical-align: bottom; }
 
-/* line 993, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 994, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .feature-box-image.big-illustration {
   height: 111px;
   margin-top: 20px;
   width: 150px; }
 
-/* line 998, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 999, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .feature-box-title {
   font-size: 20px;
   margin: 0; }
 
-/* line 1002, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1003, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .paragraph-middle {
   margin-bottom: 5px; }
 
-/* line 1006, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1007, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .box, .feature-box {
   margin-bottom: 30px; }
 
-/* line 1012, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1013, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .label {
   white-space: normal; }
 
-/* line 1016, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1017, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 i.fa-icon-large {
   font-size: 112px;
   margin-top: 10px; }
 
-/* line 1020, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1021, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 i.fa-icon-medium {
   font-size: 56px; }
 
-/* line 1024, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1025, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 *.white {
   color: #fff; }
 
-/* line 1027, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1028, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .panel span.iwrap {
   display: block;
   width: 50px;
@@ -1041,11 +1041,11 @@ i.fa-icon-medium {
   text-align: center;
   font-size: 100%; }
 
-/* line 1038, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1039, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .wedo p {
   padding-top: 0px; }
 
-/* line 1041, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1042, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .label {
   text-align: center;
   padding: 5px 5px;
@@ -1056,13 +1056,13 @@ i.fa-icon-medium {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-/* line 1052, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1053, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .label img {
   height: 60%;
   width: 60%;
   margin-bottom: 24px; }
 
-/* line 1058, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1059, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .label-new {
   border-left: 1px solid #2b2b2b;
   border-right: 1px solid #2b2b2b; }
@@ -1070,19 +1070,19 @@ i.fa-icon-medium {
 /*.label-info{
 background:#AECED8;
 }	*/
-/* line 1066, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1067, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .label-inverse {
   background: #595f6b; }
 
-/* line 1070, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1071, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .label-saccess {
   background: #6bcdd6; }
 
-/* line 1074, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1075, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .label-gray {
   background: #dedede; }
 
-/* line 1077, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1078, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .label.label-large {
   display: inline-block;
   width: 100%;
@@ -1098,7 +1098,7 @@ background:#AECED8;
   -moz-box-shadow:    0px 1px 0px rgba(50, 50, 50, 0.31);
   box-shadow:         0px 1px 0px rgba(50, 50, 50, 0.31);*/ }
 
-/* line 1093, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1094, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .label-blocks h3,
 .label-blocks h4,
 .label-blocks p {
@@ -1106,7 +1106,7 @@ background:#AECED8;
   /*text-transform:uppercase;
   margin-top:20px;*/ }
 
-/* line 1101, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1102, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .red-panel-bottom {
   background: #b94a48 url(../../images/redbg.jpg) 0% 0% fixed repeat-y;
   /*background:#2b2b2b;*/
@@ -1115,7 +1115,7 @@ background:#AECED8;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
   background-size: 100% auto; }
 
-/* line 1112, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1113, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .dark-panel-bottom {
   position: relative;
   padding: 30px 0px;
@@ -1125,7 +1125,7 @@ background:#AECED8;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055); }
 
 /*********************** APPS PANEL **************************/
-/* line 1123, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1124, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .overlay-panel {
   padding: 50px 0px;
   margin: 0px;
@@ -1135,25 +1135,25 @@ background:#AECED8;
   min-height: 100%;
   background: rgba(0, 0, 0, 0.5); }
 
-/* line 1133, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1134, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .overlay-panel p {
   color: #fff;
   font-weight: 200; }
 
-/* line 1138, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1139, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .overlay-panel .label {
   border-color: #fff; }
 
-/* line 1141, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1142, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .overlay-panel .panel span {
   color: #fff; }
 
-/* line 1144, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1145, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .overlay-panel .panel p.lead {
   padding-left: 0px;
   margin-top: 20px; }
 
-/* line 1148, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1149, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .red-panel-bottom .lead {
   font-size: 250%;
   color: #fff;
@@ -1163,18 +1163,18 @@ background:#AECED8;
   display: inline-block;
   line-height: 30px; }
 
-/* line 1158, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1159, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .panel.marketing-lines {
   padding: 50px 0px;
   background: url(../img/bg.gif);
   /*#f0f0f0;*/
   border-top: 1px solid #d0d0d0; }
 
-/* line 1164, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1165, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .panel .lead {
   font-size: 140%; }
 
-/* line 1167, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1168, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .slogan.lead {
   color: #595f6b;
   text-shadow: 0px 1px 0px #fff;
@@ -1182,12 +1182,12 @@ background:#AECED8;
   line-height: 38px;
   font-weight: 300; }
 
-/* line 1175, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1176, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .lenom {
   text-shadow: 0px 1px 0px #fff;
   font-weight: bold; }
 
-/* line 1180, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1181, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .overlay-panel .label.label-new {
   margin-top: 5px;
   padding: 0px 3px 3px 3px;
@@ -1196,37 +1196,37 @@ background:#AECED8;
   line-height: 40px;
   background: rgba(250, 250, 250, 0.1); }
 
-/* line 1189, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1190, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .overlay-panel hr {
   margin: 20px 0;
   border: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.6);
   border-bottom: 1px solid rgba(250, 250, 250, 0.25); }
 
-/* line 1196, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1197, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .overlay-panel span.label.label-new [class^="fa-icon-"], .overlay-panel span.label.label-new[class*=" fa-icon-"] {
   font-size: 35px; }
 
-/* line 1200, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1201, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 p {
   /*text-align:justify;*/
   padding: 10px 0px; }
 
-/* line 1204, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1205, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .feature-box p {
   text-align: center; }
 
-/* line 1207, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1208, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .pricing-table p {
   padding: 0px;
   margin-top: 5px;
   font-size: 90%; }
 
-/* line 1213, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1214, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 *.main-color {
   color: #2b2b2b; }
 
-/* line 1216, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1217, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-danger.btn-block {
   margin: 0 auto;
   font-size: 21px;
@@ -1234,7 +1234,7 @@ p {
   width: auto;
   padding: 12px 16px; }
 
-/* line 1221, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1222, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .camein {
   /*width: 100%;
   min-width: 100%;*/
@@ -1246,7 +1246,7 @@ p {
   margin-bottom: 30px;
   margin-top: 15px; }
 
-/* line 1233, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1234, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .camein p {
   min-width: 50%;
   background: rgba(250, 250, 250, 0.15);
@@ -1264,7 +1264,7 @@ p {
   display: inline-block;
   border: 1px solid rgba(250, 250, 250, 0.28); }
 
-/* line 1251, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1252, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-block-third {
   display: block;
   width: 40%;
@@ -1275,7 +1275,7 @@ p {
   box-sizing: border-box;
   float: left; }
 
-/* line 1262, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1263, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 i.or {
   float: left;
   display: block;
@@ -1285,12 +1285,12 @@ i.or {
   font-weight: 600;
   color: #fff; }
 
-/* line 1272, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1273, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #main-nav select {
   float: right;
   margin-top: 10px; }
 
-/* line 1277, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1278, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit {
   margin-top: 0px;
   margin-bottom: 0px;
@@ -1302,12 +1302,12 @@ i.or {
   line-height: 26px;
   font-size: 19px; }
 
-/* line 1289, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1290, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit img {
   margin-top: 28px;
   margin-bottom: 20px; }
 
-/* line 1297, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1298, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit {
   background: #abe1dc;
   /*background-image: url(../../images/ed-degrade.jpg)#ECF0F1 #B0E2DC */
@@ -1316,7 +1316,7 @@ i.or {
   z-index: 2;
   position: relative; }
 
-/* line 1306, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1307, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit .span8 {
   text-align: left;
   bottom: 0px;
@@ -1332,31 +1332,31 @@ background-image: url(../../images/hero-img1.png);
 z-index:9999;
 }
  */
-/* line 1326, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1327, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit hr.half {
   border: none;
   margin-bottom: 5px; }
 
-/* line 1330, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1331, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit h2 {
   margin-bottom: 40px; }
 
-/* line 1333, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1334, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit h1, .hero-unit h2 {
   color: #fff;
   /*font-weight:700;
   text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);*/ }
 
-/* line 1340, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1341, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #team-section .panel {
   padding-bottom: 0px; }
 
-/* line 1342, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1343, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #header-section {
   position: relative;
   overflow: hidden; }
 
-/* line 1346, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1347, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #header-section .innerbg {
   /*background: #b94a48 url(../../images/redbg.jpg) 0% 0%  fixed; url(../../images/bgipad.jpg) 0% 0%  fixed;*/
   min-height: 630px;
@@ -1370,7 +1370,7 @@ z-index:9999;
   -webkit-background-size: cover;
   position: relative; }
 
-/* line 1361, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1362, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .overlaybg {
   margin: 0px;
   width: 100%;
@@ -1379,7 +1379,7 @@ z-index:9999;
   min-width: 100%;
   /*background: rgba(0, 0, 0, 0.3);*/ }
 
-/* line 1373, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1374, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .testimonial-box {
   border: 4px solid transparent;
   padding: 10px;
@@ -1396,23 +1396,23 @@ border:4px solid #6bcdd6;
 -moz-border-radius: 7px;
 border-radius: 7px;
 }*/
-/* line 1389, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1390, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 hr.half {
   margin: 12px 0;
   border: 0;
   border-top: 1px solid #ECF0F1;
   border-bottom: 1px solid #ffffff; }
 
-/* line 1396, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1397, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .page-header {
   border-bottom: none;
   padding: 20px 0px; }
 
-/* line 1403, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1404, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .page-header.slogan span {
   margin-bottom: 20px; }
 
-/* line 1407, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1408, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .page-header h3 {
   font-size: 60px;
   text-transform: uppercase;
@@ -1423,39 +1423,39 @@ hr.half {
   width: 100%;
   padding-bottom: 0px; }
 
-/* line 1421, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1422, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .page-header h3 small {
   color: #4b4b4b;
   border-bottom: none;
   font-size: 18px; }
 
-/* line 1427, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1428, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .page-header.well h3 {
   font-size: 26px;
   text-transform: uppercase; }
 
 /**************************** TEAM & ABOUT ***************************/
-/* line 1438, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1439, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #team-section {
   /*background:#fff;*/ }
 
-/* line 1442, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1443, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .team-items-row {
   margin-bottom: 70px;
   display: inline-block; }
 
-/* line 1447, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1448, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .skills-services {
   width: 100%;
   display: inline-block;
   padding: 50px 0px;
   margin-bottom: -55px; }
 
-/* line 1456, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1457, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .skills-services h3 {
   margin-bottom: 20px; }
 
-/* line 1463, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1464, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .progress, .ui-slider {
   background: #e8edf2;
   border-radius: 32px;
@@ -1465,7 +1465,7 @@ hr.half {
   box-shadow: none;
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false); }
 
-/* line 1471, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1472, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .progress .bar, .ui-slider .bar {
   background: #2b2b2b;
   -webkit-box-shadow: none !important;
@@ -1473,28 +1473,28 @@ hr.half {
   box-shadow: none !important;
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false); }
 
-/* line 1477, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1478, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .progress .bar-success, .ui-slider .bar-success {
   background-color: #2ecc71;
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false); }
 
-/* line 1480, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1481, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .progress .bar-warning, .ui-slider .bar-warning {
   background-color: #FFAA49;
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false); }
 
-/* line 1483, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1484, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .progress .bar-danger, .ui-slider .bar-danger {
   background-color: #e74c3c;
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false); }
 
-/* line 1486, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1487, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .progress .bar-info, .ui-slider .bar-info {
   background-color: #3498db;
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false); }
 
 /****************************** FEATURES ***************************************/
-/* line 1490, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1491, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #tv-section H4 {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 15px;
@@ -1502,7 +1502,7 @@ hr.half {
   text-align: left;
   line-height: 18px; }
 
-/* line 1497, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1498, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #tv-section .thumbnail {
   background-color: #FFFFFF;
   display: block;
@@ -1510,38 +1510,38 @@ hr.half {
   overflow: hidden;
   padding: 0; }
 
-/* line 1505, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1506, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #tv-section .thumbnail:hover {
   -moz-box-sizing: border-box;
   box-shadow: none; }
 
-/* line 1510, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1511, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #tv-section .thumbnail:hover h4 {
   color: #30303a;
   text-decoration: none; }
 
-/* line 1515, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1516, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #tv-section h4 *, .caption * {
   text-decoration: none; }
 
-/* line 1517, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1518, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #tv-section .thumbnail:hover .thumb-hover {
   opacity: 1;
   filter: alpha(opacity=100); }
 
-/* line 1522, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1523, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .thumb-hover:before {
   content: "\e722";
   font-family: 'icomoon';
   font-size: 3.1em;
   color: #fff; }
 
-/* line 1529, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1530, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 space {
   height: 30px;
   display: block; }
 
-/* line 1531, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1532, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .thumb-hover {
   padding-top: 51px;
   padding-left: 80px;
@@ -1558,23 +1558,23 @@ space {
   display: block;
   /*display: none;*/ }
 
-/* line 1550, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1551, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #tv-section .bigger {
   margin-top: 30px; }
 
-/* line 1552, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1553, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #features-section {
   padding-bottom: 0px;
   padding-top: 60px; }
-  /* line 1555, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 1556, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   #features-section h4 {
     margin-top: 0px;
     margin-bottom: 8px; }
-  /* line 1560, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 1561, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   #features-section .span4 {
     text-align: center; }
 
-/* line 1563, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1564, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .panel {
   display: inline-block;
   width: 100%;
@@ -1585,18 +1585,18 @@ space {
   color: #2b2b2b;
   padding: 60px 0px; }
 
-/* line 1575, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1576, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .panel.first {
   margin-top: -30px; }
 
-/* line 1579, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1580, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .panel.nobg {
   background: none;
   box-shadow: none;
   -webkit-box-shadow: none;
   -moz-box-shadow: none; }
 
-/* line 1586, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1587, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .panel span {
   text-shadow: none;
   font-size: 37px;
@@ -1605,7 +1605,7 @@ space {
   display: inline-block;
   line-height: 52px; }
 
-/* line 1596, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1597, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .panel span .inner {
   text-shadow: none;
   font-size: 18px;
@@ -1617,7 +1617,7 @@ space {
   border-top: 1px solid #dedede;
   border-bottom: 1px solid #dedede; }
 
-/* line 1608, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1609, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .panel .inner-text {
   width: 100%;
   text-shadow: none;
@@ -1629,23 +1629,23 @@ space {
   line-height: 28px;
   margin-top: 20px; }
 
-/* line 1621, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1622, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .features-more {
   padding: 60px 0px 100px;
   display: inline-block;
   min-height: 280px; }
 
-/* line 1627, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1628, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .features-more:first-child {
   border-top: none; }
 
-/* line 1631, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1632, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .features-more h3 {
   font-size: 26px;
   color: #2b2b2b;
   font-weight: 400; }
 
-/* line 1638, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1639, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .features-more:nth-child(odd) h3 {
   text-align: right; }
 
@@ -1656,24 +1656,24 @@ font-weight: 400;
 line-height: 24px;
 }*/
 /***************************** PROJECTS ******************************/
-/* line 1651, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1652, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #portfolio-section {
   min-height: 550px;
   position: relative;
   overflow: hidden; }
 
-/* line 1658, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1659, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .proj {
   margin-bottom: 40px; }
 
 /*******************
 Izotope Boxes
  ********/
-/* line 1665, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1666, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #container-folio {
   /*margin-bottom:50px;*/ }
 
-/* line 1668, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1669, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .isotope-item {
   -moz-transition-property: -moz-transform, opacity;
   -ms-transition-property: -moz-transform, opacity;
@@ -1681,11 +1681,11 @@ Izotope Boxes
   transition-property: transform, opacity;
   -webkit-transition-property: -webkit-transform, opacity; }
 
-/* line 1676, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1677, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .project-item {
   margin-bottom: 30px; }
 
-/* line 1679, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1680, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .isotope-item {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -1694,14 +1694,14 @@ Izotope Boxes
   transition: all 0.2s ease-in-out;
   z-index: 2; }
 
-/* line 1684, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1685, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .isotope-item:hover {
   z-index: 3; }
 
 /*************
 thumbnails NEWS
  ********/
-/* line 1692, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1693, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #container-folio .thumbnail, #container-folio .thumbnail:hover {
   box-shadow: none;
   -webkit-box-shadow: none;
@@ -1710,31 +1710,31 @@ thumbnails NEWS
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-/* line 1706, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1707, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #container-folio .thumbnail h4 a {
   color: #2b2b2b;
   border-bottom: 1px dashed #dedede; }
 
-/* line 1711, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1712, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #container-folio .thumbnail h4 a:hover {
   color: #333;
   border-bottom: 1px dashed #333;
   text-decoration: none; }
 
-/* line 1717, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1718, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .news-thumb h4 {
   font-size: 160%;
   margin-top: 20px; }
 
-/* line 1721, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1722, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .thumbnail.news-thumb img {
   border-bottom: none; }
 
-/* line 1724, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1725, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .client-wrap {
   margin-bottom: 50px; }
 
-/* line 1729, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1730, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .logo-client {
   border-right: 1px solid #dedede;
   padding-bottom: 30px;
@@ -1742,20 +1742,20 @@ thumbnails NEWS
   box-sizing: border-box;
   -moz-box-sizing: border-box; }
 
-/* line 1737, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1738, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .logo-client:first-child {
   border-left: none; }
 
-/* line 1740, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1741, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .logo-client:last-child {
   border-right: none; }
 
-/* line 1745, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1746, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .news-thumb .caption {
   border-right: 1px solid #dedede;
   padding-right: 30px; }
 
-/* line 1750, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1751, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .thumbnail .img-wrap {
   position: relative;
   overflow: hidden;
@@ -1763,13 +1763,13 @@ thumbnails NEWS
   height: 100%;
   height: 180px; }
 
-/* line 1757, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1758, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .thumbnail .img-wrap img {
   width: 100%;
   height: auto;
   display: block; }
 
-/* line 1764, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1765, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .thumbnail .demo-browser .caption {
   position: absolute;
   bottom: -110%;
@@ -1788,7 +1788,7 @@ thumbnails NEWS
   -khtml-opacity: 0;
   opacity: 0; }
 
-/* line 1783, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1784, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .thumbnail:hover .demo-browser .caption {
   bottom: 0%;
   filter: alpha(opacity=100);
@@ -1798,7 +1798,7 @@ thumbnails NEWS
   opacity: 1; }
 
 /***************************** PRICE ********************************/
-/* line 1795, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1796, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #price-section {
   /*background:#fff;*/
   -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
@@ -1807,12 +1807,12 @@ thumbnails NEWS
   background-size: 100% auto;
   padding-top: 50px; }
 
-/* line 1804, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1805, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #price-section .overlay-panel {
   padding-top: 50px;
   background: rgba(0, 0, 0, 0.4); }
 
-/* line 1808, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1809, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .pricing-table-header .price-header {
   background-size: 16px 16px;
   color: #fff;
@@ -1823,27 +1823,27 @@ thumbnails NEWS
   font-size: 26px;
   font-weight: 700; }
 
-/* line 1822, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1823, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .gray .pricing-table-header .price-header {
   background: #34495E; }
 
-/* line 1826, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1827, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .green .pricing-table-header .price-header {
   background: #2ECC71; }
 
-/* line 1830, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1831, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .dark-green .pricing-table-header .price-header {
   background: rgba(0, 0, 0, 0.7); }
 
-/* line 1834, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1835, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .red .pricing-table-header .price-header {
   background: #E74C3C; }
 
-/* line 1837, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1838, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .pricing-table-features, .pricing-table-header .price-value {
   padding: 20px; }
 
-/* line 1840, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1841, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .feature-box.price-feature-box {
   padding: 0px;
   background: rgba(250, 250, 250, 0.9);
@@ -1852,7 +1852,7 @@ thumbnails NEWS
   -moz-box-shadow: 0px 0px 20px rgba(50, 50, 50, 0.05), 0px 0px 5px rgba(50, 50, 50, 0.05);
   box-shadow: 0px 0px 30px rgba(50, 50, 50, 0.05), 0px 0px 5px rgba(50, 50, 50, 0.05); }
 
-/* line 1849, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1850, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .pricing-table-sign-up {
   padding: 20px; }
 
@@ -1864,21 +1864,21 @@ thumbnails NEWS
  * Licensed under the MIT License:
  * http://www.opensource.org/licenses/mit-license.php
  */
-/* line 1861, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1862, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plans {
   margin: 0px auto 50px;
   zoom: 1; }
 
-/* line 1865, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1866, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plans:before, .plans:after {
   content: '';
   display: table; }
 
-/* line 1869, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1870, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plans:after {
   clear: both; }
 
-/* line 1873, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1874, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan {
   float: left;
   width: 220px;
@@ -1895,20 +1895,20 @@ thumbnails NEWS
   -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); }
 
-/* line 1890, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1891, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .span4.plan:first-child {
   border-top-left-radius: 7px;
   border-bottom-left-radius: 7px;
   margin-right: -30px;
   margin-left: 30px; }
 
-/* line 1896, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1897, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan:last-child {
   border-width: 2px;
   border-top-right-radius: 7px;
   border-bottom-right-radius: 7px; }
 
-/* line 1902, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1903, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-title {
   position: relative;
   margin: -20px -10px 20px;
@@ -1919,7 +1919,7 @@ thumbnails NEWS
   color: #595f6b;
   border-bottom: 1px dashed #d2d2d2; }
 
-/* line 1913, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1914, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-title:before {
   content: '';
   position: absolute;
@@ -1933,7 +1933,7 @@ thumbnails NEWS
   background-image: -o-linear-gradient(left, white, white 33%, #d2d2d2 34%, #d2d2d2);
   background-image: linear-gradient(to right, white, white 33%, #d2d2d2 34%, #d2d2d2); }
 
-/* line 1927, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1928, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-price {
   margin: 0 auto 20px;
   width: 110px;
@@ -1949,13 +1949,13 @@ thumbnails NEWS
   display: inline-block;
   text-align: center; }
 
-/* line 1943, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1944, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-price > span {
   font-size: 12px;
   font-weight: normal;
   color: rgba(255, 255, 255, 0.9); }
 
-/* line 1949, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1950, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-features {
   margin-bottom: 20px;
   line-height: 2;
@@ -1963,16 +1963,16 @@ thumbnails NEWS
   color: #999;
   text-align: center; }
 
-/* line 1956, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1957, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-features li {
   list-style: none; }
 
-/* line 1959, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1960, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-features > li > strong {
   font-weight: bold;
   color: #888; }
 
-/* line 1964, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1965, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-button {
   display: inline-block;
   vertical-align: top;
@@ -1994,7 +1994,7 @@ thumbnails NEWS
   -webkit-box-shadow: inset 0 1px rgba(255, 255, 255, 0.2), inset 0 2px rgba(255, 255, 255, 0.1), 0 1px rgba(0, 0, 0, 0.1);
   box-shadow: inset 0 1px rgba(255, 255, 255, 0.2), inset 0 2px rgba(255, 255, 255, 0.1), 0 1px rgba(0, 0, 0, 0.1); }
 
-/* line 1985, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1986, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-button:active {
   color: rgba(255, 255, 255, 0.95);
   background: #6f5e96;
@@ -2006,7 +2006,7 @@ thumbnails NEWS
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25);
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25); }
 
-/* line 1997, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 1998, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-tall {
   margin: 0;
   background-color: white;
@@ -2017,11 +2017,11 @@ thumbnails NEWS
   z-index: 100;
   padding-bottom: 40px; }
 
-/* line 2007, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2008, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-tall > .plan-title {
   font-size: 18px; }
 
-/* line 2010, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2011, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-tall > .plan-price {
   margin: 0 auto 20px;
   width: 110px;
@@ -2037,52 +2037,52 @@ thumbnails NEWS
   display: inline-block;
   text-align: center; }
 
-/* line 2026, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2027, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-tall > .plan-features {
   font-size: 13px; }
 
-/* line 2029, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2030, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-tall > .plan-button {
   padding: 0 16px;
   line-height: 32px; }
 
-/* line 2033, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2034, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-tall + .plan {
   border-left: 0; }
 
 /**************************** FOOTER ***********************************************/
-/* line 2039, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2040, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 footer {
   padding-top: 50px;
   padding-bottom: 45px;
   background: #fff;
   color: #30303a; }
-  /* line 2046, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2047, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   footer img {
     margin-bottom: 10px;
     height: auto; }
-  /* line 2048, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2049, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   footer address {
     display: inline-block;
     margin-bottom: 20px;
     margin-left: 14px; }
-  /* line 2053, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2054, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   footer .socials {
     float: right;
     margin-top: -11px; }
-  /* line 2058, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2059, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   footer ul.socials li a {
     color: #fff;
     background: #30303a; }
 
-/* line 2066, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2067, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 ul.socials {
   list-style-type: none;
   text-decoration: none; }
-  /* line 2069, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2070, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   ul.socials li {
     display: inline-block; }
-  /* line 2071, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2072, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   ul.socials li a {
     -webkit-border-radius: 40px;
     -moz-border-radius: 40px;
@@ -2099,21 +2099,21 @@ ul.socials {
     list-style: none;
     display: inline-block;
     margin-left: 3px; }
-    /* line 2082, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+    /* line 2083, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
     ul.socials li a:hover {
       background: #ff5a3e;
       color: #fff; }
 
-/* line 2086, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2087, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 footer .socials li a {
   font-size: 20px;
   padding: 10px;
   margin-left: 6px; }
-  /* line 2086, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2087, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   footer .socials li a i {
     margin-right: 2px; }
 
-/* line 2087, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2088, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #socialfixed .socials li a {
   font-size: 13px; }
 
@@ -2162,7 +2162,7 @@ color:#fff;
 text-decoration:underline;
 }
  */
-/* line 2143, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2144, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #map {
   display: block;
   height: 250px;
@@ -2178,18 +2178,18 @@ text-decoration:underline;
   border-top: 4px solid #2fe2bf; }
 
 /****************************** BUTTONS *********************************************/
-/* line 2160, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2161, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn.btn-large {
   padding-bottom: 16px;
   padding-top: 18px; }
 
-/* line 2165, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2166, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .progress, .ui-slider {
   background: #e8edf2;
   border-radius: 2px;
   height: 25px; }
 
-/* line 2171, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2172, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn {
   border: none;
   background: #34495e;
@@ -2206,14 +2206,14 @@ text-decoration:underline;
   transition: 0.25s;
   -webkit-backface-visibility: hidden; }
 
-/* line 2189, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2190, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn {
   /*-webkit-border-radius: 0px;
   -moz-border-radius: 0px;
   border-radius: 0px;*/
   font-family: Helvetica, Arial, "Lucida Grande", sans-serif; }
 
-/* line 2197, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2198, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn:hover, .btn:focus {
   background-color: #4e6d8d;
   color: white;
@@ -2223,7 +2223,7 @@ text-decoration:underline;
   transition: 0.25s;
   -webkit-backface-visibility: hidden; }
 
-/* line 2206, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2207, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn:active, .btn.active {
   background-color: #2c3e50;
   color: rgba(255, 255, 255, 0.75);
@@ -2231,40 +2231,40 @@ text-decoration:underline;
   -moz-box-shadow: none;
   box-shadow: none; }
 
-/* line 2213, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2214, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn.disabled, .btn[disabled] {
   background-color: #95a5a6;
   color: white; }
 
-/* line 2217, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2218, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn.btn-large {
   padding-bottom: 12px;
   padding-top: 13px; }
 
-/* line 2223, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2224, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn {
   background: #C2C2B1; }
 
-/* line 2224, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2225, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn:hover, .btn:focus {
   background: #ff5a3e; }
 
-/* line 2226, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2227, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-primary {
   background: #50BFB2; }
 
-/* line 2227, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2228, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
 .btn-primary.active {
   background: #ff5a3e; }
 
-/* line 2232, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2233, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-cancel {
   margin-right: 12px; }
 
-/* line 2234, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2235, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-primary.disabled:hover,
 .btn-primary[disabled]:hover,
 fieldset[disabled] .btn-primary:hover,
@@ -2280,7 +2280,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: #428bca;
   border-color: #428bca; }
 
-/* line 2251, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2252, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-white {
   background: rgba(0, 0, 0, 0.7);
   border: 2px solid #fff;
@@ -2292,7 +2292,7 @@ fieldset[disabled] .btn-primary.active {
   display: inline-block;
   margin-bottom: 30px; }
 
-/* line 2263, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2264, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-white span, .panel .btn-white span {
   font-size: 70%;
   display: inline-block;
@@ -2300,12 +2300,12 @@ fieldset[disabled] .btn-primary.active {
   line-height: 20px;
   margin-top: 0px; }
 
-/* line 2271, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2272, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-warning {
   background-color: #f0ad4e;
   border-color: #f0ad4e; }
 
-/* line 2276, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2277, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-warning:hover,
 .btn-warning:focus,
 .btn-warning:active,
@@ -2313,7 +2313,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: #eea236;
   border-color: #ec971f; }
 
-/* line 2284, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2285, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-warning.disabled:hover,
 .btn-warning[disabled]:hover,
 fieldset[disabled] .btn-warning:hover,
@@ -2329,13 +2329,13 @@ fieldset[disabled] .btn-warning.active {
   background-color: #f0ad4e;
   border-color: #f0ad4e; }
 
-/* line 2300, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2301, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-danger {
   background-color: #ff5a3e;
   border-color: #ff5a3e;
   font-size: 27px; }
 
-/* line 2307, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2308, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-danger:hover,
 .btn-danger:focus,
 .btn-danger:active,
@@ -2343,7 +2343,7 @@ fieldset[disabled] .btn-warning.active {
   background-color: #30303a;
   border-color: #c9302c; }
 
-/* line 2315, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2316, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-danger.disabled:hover,
 .btn-danger[disabled]:hover,
 fieldset[disabled] .btn-danger:hover,
@@ -2359,12 +2359,12 @@ fieldset[disabled] .btn-danger.active {
   background-color: #d9534f;
   border-color: #d9534f; }
 
-/* line 2331, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2332, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-success {
   background-color: #5cb85c;
   border-color: #5cb85c; }
 
-/* line 2336, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2337, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-success:hover,
 .btn-success:focus,
 .btn-success:active,
@@ -2372,7 +2372,7 @@ fieldset[disabled] .btn-danger.active {
   background-color: #4cae4c;
   border-color: #449d44; }
 
-/* line 2344, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2345, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-success.disabled:hover,
 .btn-success[disabled]:hover,
 fieldset[disabled] .btn-success:hover,
@@ -2388,12 +2388,12 @@ fieldset[disabled] .btn-success.active {
   background-color: #5cb85c;
   border-color: #5cb85c; }
 
-/* line 2360, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2361, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-info {
   background-color: #6bcdd6;
   border-color: #6bcdd6; }
 
-/* line 2365, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2366, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-info:hover,
 .btn-info:focus,
 .btn-info:active,
@@ -2401,7 +2401,7 @@ fieldset[disabled] .btn-success.active {
   background-color: #46b8da;
   border-color: #31b0d5; }
 
-/* line 2373, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2374, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-info.disabled:hover,
 .btn-info[disabled]:hover,
 fieldset[disabled] .btn-info:hover,
@@ -2417,7 +2417,7 @@ fieldset[disabled] .btn-info.active {
   background-color: #6bcdd6;
   border-color: #6bcdd6; }
 
-/* line 2389, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2390, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-link,
 .btn-link:active,
 .btn-link[disabled],
@@ -2427,28 +2427,28 @@ fieldset[disabled] .btn-link {
   -webkit-box-shadow: none;
   box-shadow: none; }
 
-/* line 2399, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2400, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-link,
 .btn-link:hover,
 .btn-link:focus,
 .btn-link:active {
   border-color: transparent; }
 
-/* line 2406, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2407, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-link {
   font-weight: normal;
   color: #428bca;
   cursor: pointer;
   border-radius: 0; }
 
-/* line 2413, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2414, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-link:hover,
 .btn-link:focus {
   color: #2a6496;
   text-decoration: underline;
   background-color: transparent; }
 
-/* line 2420, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2421, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-link[disabled]:hover,
 fieldset[disabled] .btn-link:hover,
 .btn-link[disabled]:focus,
@@ -2456,7 +2456,7 @@ fieldset[disabled] .btn-link:focus {
   color: #333333;
   text-decoration: none; }
 
-/* line 2428, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2429, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn.btn-large.btn-demo {
   background: none;
   border: 3px solid rgba(250, 250, 250, 0.8);
@@ -2465,33 +2465,33 @@ fieldset[disabled] .btn-link:focus {
   padding-bottom: 9px;
   padding-top: 10px; }
 
-/* line 2437, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2438, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn.btn-large.btn-demo:hover {
   background: rgba(0, 0, 0, 0.3);
   border: 3px solid #fff; }
 
-/* line 2443, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2444, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-toolbar .btn {
   font-size: 18px;
   padding: 10px 14px 9px; }
 
-/* line 2446, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2447, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-toolbar .btn:first-child {
   -webkit-border-radius: 6px 0 0 6px;
   -moz-border-radius: 6px 0 0 6px;
   border-radius: 6px 0 0 6px; }
 
-/* line 2450, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2451, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-toolbar .btn:last-child {
   -webkit-border-radius: 0 6px 6px 0;
   -moz-border-radius: 0 6px 6px 0;
   border-radius: 0 6px 6px 0; }
 
-/* line 2455, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2456, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn-toolbar .btn.active {
   color: white; }
 
-/* line 2459, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2460, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 input[type="text"].subscribe-input {
   height: 45px;
   background: rgba(0, 0, 0, 0.6);
@@ -2500,7 +2500,7 @@ input[type="text"].subscribe-input {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-/* line 2468, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2469, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .glass-border {
   padding: 20px 0px;
   -moz-box-sizing: border-box;
@@ -2513,18 +2513,18 @@ input[type="text"].subscribe-input {
   -moz-border-radius: 5px;
   border-radius: 5px; }
 
-/* line 2481, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2482, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .demo-headline {
   padding: 73px 0 110px;
   text-align: center; }
 
 /**************************** COLORS *********************************/
-/* line 2487, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2488, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .color-dark {
   color: #2b2b2b; }
 
 /************************** SCROLL EVENT SCROLL BUTTONS ******************/
-/* line 2492, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2493, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .top-link {
   position: fixed;
   top: 130px;
@@ -2535,7 +2535,7 @@ input[type="text"].subscribe-input {
   height: 50px;
   background: url(../img/topbottomlinks.png) 0px -50px no-repeat; }
 
-/* line 2504, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2505, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .top-link-click {
   position: fixed;
   top: 80px;
@@ -2545,7 +2545,7 @@ input[type="text"].subscribe-input {
   height: 50px;
   background: url(../img/topbottomlinks.png) 0px 0px no-repeat; }
 
-/* line 2515, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2516, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .bottom-link-click {
   display: inline-block;
   width: 50px;
@@ -2558,7 +2558,7 @@ input[type="text"].subscribe-input {
   height: 50px;
   background: url(../img/topbottomlinks.png) 0px -150px no-repeat; }
 
-/* line 2528, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2529, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .bottom-link {
   position: fixed;
   bottom: 60px;
@@ -2569,12 +2569,12 @@ input[type="text"].subscribe-input {
   height: 50px;
   background: url(../img/topbottomlinks.png) 0px -100px no-repeat; }
 
-/* line 2541, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2542, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .bottom-link.right, .bottom-link-click.right, .top-link-click.right, .top-link.right {
   right: -60px; }
 
 /* HOVER OPACITY EFFECT */
-/* line 2545, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2546, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .top-link-click, .top-link, .bottom-link-click
 , .bottom-link {
   filter: alpha(opacity=30);
@@ -2592,7 +2592,7 @@ input[type="text"].subscribe-input {
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
 
-/* line 2561, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2562, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .top-link-click:hover, .top-link:hover, .bottom-link-click:hover
 , .bottom-link:hover {
   cursor: pointer;
@@ -2607,7 +2607,7 @@ input[type="text"].subscribe-input {
   /* CSS3 - Mozilla 1.7b +, Firefox 0.9 +, Safari 1.2+, Opera 9+ */ }
 
 /* END HOVER OPACITY EFFECT */
-/* line 2574, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2575, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .top-corner {
   position: absolute;
   top: 0px;
@@ -2615,7 +2615,7 @@ input[type="text"].subscribe-input {
   width: 1px;
   height: 1px; }
 
-/* line 2581, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2582, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .bottom-corner {
   position: absolute;
   bottom: 0px;
@@ -2623,7 +2623,7 @@ input[type="text"].subscribe-input {
   width: 1px;
   height: 1px; }
 
-/* line 2588, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2589, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .gobottom {
   filter: alpha(opacity=0);
   filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
@@ -2643,7 +2643,7 @@ input[type="text"].subscribe-input {
   float: none;
   width: 100%; }
 
-/* line 2608, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2609, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .gobottom.active {
   filter: alpha(opacity=100);
   filter: progid:DXImageTransform.Microsoft.Alpha(opacity=100);
@@ -2652,90 +2652,90 @@ input[type="text"].subscribe-input {
   opacity: 1;
   padding-top: 0px; }
 
-/* line 2617, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2618, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .gobottom a {
   color: #fff; }
 
-/* line 2620, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2621, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .gobottom a {
   color: #fff;
   text-decoration: none; }
 
-/* line 2625, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2626, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .gobottom:hover {
   color: rgba(250, 250, 250, 0.8); }
 
-/* line 2630, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2631, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit img {
   bottom: 0px; }
 
-/* line 2633, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2634, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .navbar .btn-navbar .icon-bar {
   background-color: #30303a; }
 
 /*****************************  @MEDIA *************************************************/
 @media (min-width: 1200px) {
-  /* line 2640, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2641, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   #main-nav select {
     display: none; }
 
-  /* line 2643, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2644, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .container {
     max-width: 960px; } }
 /* \media 1200 */
 @media (max-width: 979px) {
-  /* line 2655, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2656, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .row-fluid [class*="span"]:first-child {
     margin-bottom: 30px; }
 
-  /* line 2658, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2659, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .slogan {
     font-size: 38px;
     line-height: 38px; }
 
-  /* line 2665, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2666, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .slogan-primo:before, .slogan-secundo:before {
     font-family: 'icomoon';
     font-size: 26px; }
 
-  /* line 2671, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2672, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   body {
     padding: 0px; }
 
-  /* line 2674, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2675, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .container, .navbar .container {
     padding: 0px 40px;
     max-width: 940px; }
 
-  /* line 2678, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2679, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .nav-collapse, .nav-collapse.collapse {
     position: fixed; }
 
-  /* line 2681, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2682, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .nav-collapse, .nav-collapse.collapse {
     background-color: #fff;
     padding-right: 40px;
     padding-bottom: 30px; }
 
-  /* line 2688, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2689, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .navbar .logo {
     width: 50px;
     overflow: hidden; }
 
-  /* line 2692, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2693, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .logo img {
     max-width: none; }
 
-  /* line 2693, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2694, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .page-header h3 {
     display: block;
     text-align: center; }
 
-  /* line 2697, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2698, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   nav {
     display: inline-block; }
 
-  /* line 2700, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2701, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .navbar-fixed-top .container, .navbar-fixed-bottom .container {
     width: auto; }
 
@@ -2777,39 +2777,39 @@ input[type="text"].subscribe-input {
     margin-bottom:10px;
   }
    */
-  /* line 2742, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2743, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   i.or {
     float: none;
     display: block;
     width: 100%;
     margin-bottom: 10px; }
 
-  /* line 2748, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2749, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .camein p {
     width: 60%; }
 
-  /* line 2752, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2753, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   #header-section .hero-unit {
     /*background: none#ECF0F1*/
     padding: 80px 20px 20px; }
 
-  /* line 2757, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2758, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .panel.first {
     margin-top: 0px; }
 
-  /* line 2761, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2762, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .thumbnail .img-wrap {
     max-height: 100px; }
 
-  /* line 2765, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2766, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .btn-navbar {
     margin-top: 15px; }
 
-  /* line 2770, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2771, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .nav-collapse .nav > li > a, .nav-collapse .dropdown-menu a {
     color: #2b2b2b; }
 
-  /* line 2774, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2775, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .navbar-fixed-top, .navbar-fixed-bottom {
     position: fixed;
     margin-bottom: 30px; }
@@ -2838,7 +2838,7 @@ input[type="text"].subscribe-input {
   
   }	
    */
-  /* line 2802, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2803, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .btn.btn-action {
     background: url(../img/actionbtnalt.jpg) center center no-repeat;
     background-size: 100% 100%;
@@ -2860,7 +2860,7 @@ background:$green;
   .hero-unit .half {display:none;}
   .hero-unit .span8 { float:right;}
   .hero-unit .span4 { float:left; }*/
-  /* line 2829, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2830, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .btn-white {
     background: none;
     border: 3px solid #fff;
@@ -2872,7 +2872,7 @@ background:$green;
     display: inline-block;
     margin-bottom: 30px; }
 
-  /* line 2840, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2841, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .btn-white span,
   .panel .btn-white span {
     font-size: 70%;
@@ -2881,63 +2881,63 @@ background:$green;
     line-height: 20px;
     margin-top: 0px; }
 
-  /* line 2850, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2851, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .news-thumb .caption {
     padding-left: 30px; }
 
-  /* line 2854, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2855, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   #showbar {
     margin-top: 40px; }
 
-  /* line 2858, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2859, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .features-more {
     border-top: 14px solid #ddd;
     padding: 10px 0px; }
 
-  /* line 2863, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2864, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .features-more {
     background: none; }
 
-  /* line 2868, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2869, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .features-more:nth-child(even) {
     background: none; }
 
-  /* line 2872, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2873, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .features-more:nth-child(odd).span6 {
     background: none; }
 
-  /* line 2878, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2879, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .features-more:nth-child(odd) h3 {
     text-align: left; }
 
-  /* line 2882, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2883, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .panel span {
     text-shadow: none;
     font-size: 26px;
     line-height: 30px; }
 
-  /* line 2888, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2889, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .panel .slogan.lead {
     font-size: 140%;
     line-height: 30px; }
 
-  /* line 2894, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2895, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .panel span .inner {
     margin-top: 10px;
     font-size: 16px;
     line-height: 28px; }
 
-  /* line 2900, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2901, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .text-right {
     text-align: center; }
 
-  /* line 2904, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2905, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .red-panel-bottom .lead {
     font-size: 200%;
     line-height: 28px;
     text-align: left; }
 
-  /* line 2910, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2911, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .caption.team-caption {
     display: inline-block;
     float: left;
@@ -2945,44 +2945,44 @@ background:$green;
     padding: 2%;
     margin: 0px; }
 
-  /* line 2917, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2918, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .sample {
     display: inline-block;
     float: left;
     width: 40%; }
 
-  /* line 2923, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2924, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .thumbnail .img-wrap {
     max-height: 180px; }
 
-  /* line 2927, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2928, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   #header-section .hero-unit {
     padding: 70px 20px 20px; }
 
-  /* line 2931, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2932, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .navbar-fixed-top {
     margin-bottom: 30px; }
 
-  /* line 2936, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2937, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .hero-unit h1 {
     font-size: 40px;
     line-height: 50px; }
 
-  /* line 2940, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2941, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .hero-unit h2 {
     font-size: 22px;
     line-height: 24px; }
 
-  /* line 2945, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2946, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   #header-section .innerbg {
     min-height: 450px;
     height: 100%; }
 
-  /* line 2950, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2951, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .panel .lead {
     font-size: 120%; }
 
-  /* line 2954, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2955, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .span4.plan:first-child,
   .span4.plan:last-child {
     border-top-left-radius: 7px;
@@ -2995,34 +2995,34 @@ background:$green;
     -moz-box-sizing: border-box;
     box-sizing: border-box; }
 
-  /* line 2966, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2967, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .plan-tall + .plan {
     border-left: 2px;
     border: solid #453b5d; }
 
-  /* line 2971, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2972, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .tweetList li p {
     line-height: 28px;
     font-size: 24px;
     text-align: center; }
 
-  /* line 2977, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2978, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .row-fluid.label-blocks .span4:nth-child(3n+1),
   .row-fluid.label-blocks .span3:nth-child(4n+1),
   .row-fluid.label-blocks .span6:nth-child(2n+1) {
     margin-left: 0px; }
 
-  /* line 2982, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 2983, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .row-fluid.label-blocks .span4,
   .row-fluid.label-blocks .span3,
   .row-fluid.label-blocks .span6 {
     margin-bottom: 30px; } }
 /*  -_________ Launch */
-/* line 2994, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2995, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .bkg-white {
   background-color: #fff; }
 
-/* line 2996, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 2997, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .submenu {
   z-index: 200;
   position: absolute !important;
@@ -3030,27 +3030,27 @@ background:$green;
   right: 0;
   padding-top: 10px; }
 
-/* line 3007, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3008, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-launch {
   float: left;
   z-index: 100; }
 
-/* line 3014, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3015, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit {
   padding: 0;
   background-repeat-x: initial; }
-  /* line 3019, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3020, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .hero-unit:after {
     margin-bottom: 40px; }
-  /* line 3020, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3021, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .hero-unit .container {
     position: relative; }
 
-/* line 3023, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3024, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit img {
   margin: 0; }
 
-/* line 3025, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3026, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit#hero-launch {
   background: #1a4072;
   /* Old browsers */
@@ -3072,82 +3072,82 @@ background:$green;
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a4072', endColorstr='#464c7b',GradientType=0 );
   /* IE6-8 */ }
 
-/* line 3045, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3046, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit.notfullimg .thehero {
   padding: 60px 0;
   padding-top: 70px;
   text-align: center; }
-  /* line 3049, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3050, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .hero-unit.notfullimg .thehero h4 {
     color: #3a3a44;
     margin-top: 0; }
-  /* line 3051, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3052, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .hero-unit.notfullimg .thehero img {
     padding-top: 30px; }
 
-/* line 3054, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3055, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit#hero-features {
   background: #d1d1c5; }
-  /* line 3055, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3056, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .hero-unit#hero-features img {
     width: 84%; }
 
-/* line 3056, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3057, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .hero-unit#hero-about {
   background: #B0E2DC; }
 
-/* line 3058, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3059, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #cta-enroll-light {
   padding-top: 35px; }
-  /* line 3060, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3061, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   #cta-enroll-light p {
     font-size: 17px; }
 
-/* line 3063, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3064, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .carousel-control {
   top: 48%;
   background: #50beb4;
   border: none; }
 
-/* line 3069, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3070, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .carousel-indicators {
   top: initial;
   bottom: 15px; }
 
-/* line 3073, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3074, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .cta {
   text-align: center; }
-  /* line 3075, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3076, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .cta .ico {
     font-size: 44px;
     vertical-align: middle;
     line-height: 1px;
     margin-right: 2px; }
-  /* line 3080, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3081, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .cta.cta-brown {
     background: #d1d1c5; }
-    /* line 3081, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+    /* line 3082, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
     .cta.cta-brown h2 {
       color: #30303a; }
-  /* line 3082, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3083, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .cta.cta-black {
     background: #3a3a44; }
-    /* line 3083, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+    /* line 3084, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
     .cta.cta-black a, .cta.cta-black p, .cta.cta-black h3 {
       color: #fff; }
-    /* line 3084, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+    /* line 3085, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
     .cta.cta-black a {
       text-decoration: underline; }
-    /* line 3087, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+    /* line 3088, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
     .cta.cta-black .btn-danger.btn-block:hover, .cta.cta-black .btn-danger.btn-block:focus {
       background: #fff;
       color: #30303a; }
 
-/* line 3091, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3092, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .container h2 + p {
   text-align: center; }
 
-/* line 3093, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3094, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 p.notes {
   padding: 5px 10px;
   color: #66663d;
@@ -3155,12 +3155,12 @@ p.notes {
   -moz-border-radius: 10px;
   border-radius: 10px;
   background: #edede8; }
-  /* line 3098, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3099, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   p.notes:before {
     font-family: 'icomoon';
     content: "\e63d"; }
 
-/* line 3104, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3105, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .cta input {
   font-weight: 300;
   font-size: 21px;
@@ -3176,83 +3176,83 @@ p.notes {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
-  /* line 67, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 68, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .cta input::-webkit-input-placeholder {
     color: #edede8; }
-  /* line 68, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 69, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .cta input:-moz-placeholder {
     color: #edede8; }
-  /* line 69, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 70, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .cta input::-moz-placeholder {
     color: #edede8; }
-  /* line 70, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 71, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .cta input:-ms-input-placeholder {
     color: #edede8; }
-  /* line 3117, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3118, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .cta input:focus {
     background: #50beb4;
     border-color: #50beb4;
     box-shadow: none; }
 
-/* line 3122, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3123, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .btn {
   box-shadow: none;
   outline: none; }
 
-/* line 3123, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3124, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .cta .btn-danger.btn-block {
   width: 100%; }
 
-/* line 3127, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3128, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 a.btn-iconic {
   display: inline-block;
   color: #50beb4; }
-  /* line 3130, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3131, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   a.btn-iconic:hover {
     color: #ff5a3e; }
-  /* line 3131, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3132, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   a.btn-iconic .ico {
     font-size: 34px;
     vertical-align: middle;
     line-height: 1px;
     margin-right: 2px; }
 
-/* line 3140, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3141, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .label-large i {
-  font-size: 70px;
+  font-size: 90px;
   display: inline-block;
-  width: 140px;
-  height: 140px;
-  line-height: 140px;
-  background: white;
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  background: #FFFAF2;
   -webkit-border-radius: 200px;
   -moz-border-radius: 200px;
   border-radius: 200px;
   margin-bottom: 8px;
   color: #3a3a44; }
 
-/* line 3154, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3155, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #soon-section {
   background: #fff; }
-  /* line 3156, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3157, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   #soon-section .label-large i {
-    background: #edede8; }
-  /* line 3159, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+    background: #FFFAF2; }
+  /* line 3160, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   #soon-section .label-blocks p {
     padding-top: 0;
     margin: 0; }
 
-/* line 3163, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3164, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .img-box {
   position: relative; }
-  /* line 3166, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3167, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .img-box img {
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     border-radius: 20px;
     border: 2px solid #d1d1c5; }
 
-/* line 3172, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3173, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .logo-ed {
   -webkit-transition: color 0.2s ease-in-out;
   -moz-transition: color 0.2s ease-in-out;
@@ -3260,39 +3260,39 @@ a.btn-iconic {
   -o-transition: color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out; }
 
-/* line 3176, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3177, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .logo-header {
   color: #30303a;
   font-size: 80px;
   margin-top: -10px; }
-  /* line 3180, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3181, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .logo-header:hover {
     color: #ff5a3e; }
 
-/* line 3183, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3184, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .logo-footer {
   color: #30303a;
   font-size: 34px;
   margin-top: -10px;
   display: inline;
   vertical-align: sub; }
-  /* line 3189, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3190, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .logo-footer:hover {
     color: #ff5a3e; }
 
-/* line 3192, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3193, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 section.princing {
   background: #50beb4;
   color: #fff; }
-  /* line 3195, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3196, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   section.princing .section-title {
     color: #fff; }
 
-/* line 3199, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3200, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .badge {
   text-shadow: none; }
 
-/* line 3201, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3202, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .princing .label-round {
   margin: 30px auto;
   background: #fff;
@@ -3303,18 +3303,18 @@ section.princing {
   width: 280px;
   height: 280px;
   padding: 50px; }
-  /* line 3210, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3211, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .princing .label-round, .princing .label-round h4 {
     color: #30303a; }
-  /* line 3212, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3213, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .princing .label-round h4 {
     padding: 0;
     margin: 0;
     margin-top: 12px; }
-  /* line 3213, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3214, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .princing .label-round i {
     font-size: 110px; }
-  /* line 3214, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3215, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .princing .label-round .badge {
     background: #ff5a3e;
     font-size: 21px;
@@ -3322,49 +3322,49 @@ section.princing {
     -webkit-border-radius: 80px;
     -moz-border-radius: 80px;
     border-radius: 80px; }
-  /* line 3221, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3222, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .princing .label-round p {
     margin: 0; }
-  /* line 3223, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3224, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .princing .label-round.plan-soon {
     background: #d1d1c5; }
-    /* line 3224, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+    /* line 3225, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
     .princing .label-round.plan-soon p.small {
       font-size: 14px;
       width: 80%;
       margin: 0 auto;
       line-height: 20px; }
-  /* line 3226, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3227, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .princing .label-round.plan-soon .badge  {
     background: #50b4d2; }
-  /* line 3227, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+  /* line 3228, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
   .princing .label-round.plan-free .badge  {
     background: #32d264; }
 
-/* line 3230, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3231, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .plan-soon .badge  {
   background-color: #50b4d2; }
 
-/* line 3233, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3234, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .img-disc img {
   -webkit-border-radius: 800px;
   -moz-border-radius: 800px;
   border-radius: 800px; }
 
-/* line 3235, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3236, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #langswitch .active, #langswitch a:hover {
   border-color: #fff; }
 
-/* line 3237, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3238, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #socialfixed ul, #langswitch a {
   color: #FFF; }
 
-/* line 3238, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3239, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 #langswitch {
   color: #fff;
   top: 13px; }
 
-/* line 3245, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
+/* line 3246, /Users/krichtof/code/work/websites/merciedgar/source/stylesheets/multipage/multipage-style.css.scss */
 .container {
   max-width: 980px; }
 
