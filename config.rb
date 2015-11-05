@@ -74,7 +74,7 @@ end
 activate :i18n, mount_at_root: :fr
 
 # Merci Edgar settings
-set :base_url, 'http://www.merciedgar.com'
+set :base_url, 'http://association-merci-edgar.github.io'
 
 activate :deploy do |deploy|
   deploy.method = :git
