@@ -1,7 +1,8 @@
 ---
 title: Edgar TV
 layout: my
-description: Merci Edgar
+slogan: "Des entretiens pour mieux comprendre le métier..."
+description: "Edgar n'est pas seulement un assistant virtuel, il aide aussi les artistes en réalisant des interviews de professionnels du spectacle, leur permettant ainsi de mieux comprendre le milieu dans lequel ils souhaitent évoluer."
 images:
   - screens/sansev.jpg
   - screens/karim.jpg
@@ -9,7 +10,7 @@ images:
 .hero-unit.notfullimg#hero-about
   .container
     .thehero
-      %h4 Des entretiens pour mieux comprendre le métier
+      %h4= current_page.data.slogan
       = image_tag("multipage/showcase-banner-about.png")
       
   
@@ -21,7 +22,7 @@ images:
     .row-fluid
       .span12
         %h2.section-title Edgar TV
-        %p.subtitle= t("home.tv.description")
+        %p.subtitle= current_page.data.description
 
     #container-folio.row-fluid
       / portfolio item

@@ -6,7 +6,7 @@
 %meta{:content => "Merci Edgar", :name => "author"}/
 
 %meta{:content => "Merci Edgar, #{t("baseline")}", :property => "og:title"}/
-%meta{:content => "#{t("home.slogan.are_you_artist")} #{t("home.slogan.time")} Merci Edgar #{t("home.slogan.edgar_for_you")}", :property => "og:description"}/
+%meta{:content => "#{current_page.data.slogan} #{current_page.data.description}", :property => "og:description"}
 
 - current_page.data.images.each do |image| 
   %meta{:content => "#{base_url}/images/multipage/#{image}", property: "og:image"}
