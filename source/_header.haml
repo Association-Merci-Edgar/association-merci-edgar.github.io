@@ -16,9 +16,10 @@
             %nav.nav-collapse.collapse.pull-right
               %ul#nav.nav
                 /= showcase_menu_link("Accueil", locale_root_path, "index")
-                %li{is_page_selected('/features.html')}= link_to "Logiciel de booking", "/software.html"
+                %li{is_page_selected('/software.html')}= link_to "Logiciel de booking", "/software.html"
                 %li{is_page_selected('/videos.html')}= link_to "Edgar TV", "/videos.html"
-                %li{is_page_selected('/about.html')}= link_to "Association", "/association.html"
+                %li{is_page_selected('/association.html')}= link_to "Association", "/association.html"
+                %li{is_page_selected('/faq.html')}= link_to "FAQ", "/faq.html"
                 %li= link_to "Blog", "http://blog.merciedgar.com", target: "_blank"
 
               #login-tab
