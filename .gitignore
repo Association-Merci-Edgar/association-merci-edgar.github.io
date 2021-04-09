@@ -19,3 +19,5 @@
 
 *.swp
 node_modules/
+
+source/stylesheets/all.css
