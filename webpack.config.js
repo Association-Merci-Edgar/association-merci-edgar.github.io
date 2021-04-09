@@ -4,9 +4,10 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 module.exports = {
   mode: 'development',
+  context: path.resolve(__dirname, 'source'),
   entry: {
-    all: ['./source/javascripts/all.js'],
-    all: ['./source/stylesheets/all.css.scss'],
+    all: ['./javascripts/all.js'],
+    all: ['./stylesheets/all.css.scss'],
   },
   output: {
 //    path: path.resolve(__dirname, '.tmp/dist'),
