@@ -15,8 +15,8 @@ jobs:
     name: Check broken links
     runs-on: ubuntu-18.04
     steps:
-      - name: HashiCorp's Link Checker
-        uses: hashicorp/gh-action-check-broken-links@v1
+      - name: Broken Link Check
+        uses: technote-space/broken-link-checker-action@v2
         with:
-          baseUrl: https://www.merciedgar.com
+          TARGET: https://www.merciedgar.com
   
