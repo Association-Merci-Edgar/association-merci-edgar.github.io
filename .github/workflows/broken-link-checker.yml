@@ -1,0 +1,22 @@
+name: Broken Link Checker
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  check:
+    name: Check broken links
+    runs-on: ubuntu-18.04
+    steps:
+      - name: HashiCorp's Link Checker
+        uses: hashicorp/gh-action-check-broken-links@v1
+        with:
+          baseUrl: https://www.merciedgar.com
+  
